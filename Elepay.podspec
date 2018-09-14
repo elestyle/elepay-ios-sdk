@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint Elepay.podspec' to ensure this is a
+#  Be sure to run `pod spec lint ElePay.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see http://docs.cocoapods.org/specification.html
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "Elepay"
+  s.name         = "ElePay"
   s.version      = "0.0.1"
   s.summary      = "elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app."
 
@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
                     then you can satisfy your customers's cashless payment requirement coming from all around the world.
                    DESC
 
-  s.homepage     = "https:/elepay.io"
+  s.homepage     = "https://elepay.io"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -42,7 +42,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "Copyright ELESTYLE, Inc."
+  s.license        = { :type => "Copyright", :text => "Copyright 2018 ELESTYLE, Inc. All Rights Reserved." }
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
@@ -56,7 +56,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "Xu Zhe" => "i@xuzhe.com" }
+  s.author             = { "ELESTYLE, Inc." => "j.t@elestyle.jp" }
   # Or just: s.author    = "Xu Zhe"
   # s.authors            = { "Xu Zhe" => "i@xuzhe.com" }
   # s.social_media_url   = "http://twitter.com/Xu Zhe"
@@ -68,7 +68,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  # s.platform     = :ios, "5.0"
+  s.platform     = :ios, "9.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
@@ -94,8 +94,8 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "Classes", "Classes/**/*.{h,m,swift}"
-  s.exclude_files = "Classes/Exclude"
+  #s.source_files  = "Classes", "Classes/**/*.{h,m,swift}"
+  #s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
 
@@ -111,6 +111,7 @@ Pod::Spec.new do |s|
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
 
+  s.preserve_paths = "ElePay"
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
 
@@ -120,6 +121,7 @@ Pod::Spec.new do |s|
   #  the lib prefix of their name.
   #
 
+  s.vendored_frameworks = "ElePay0.0.1/ElePay.framework"
   # s.framework  = "SomeFramework"
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
@@ -133,7 +135,7 @@ Pod::Spec.new do |s|
   #  where they will only apply to your library. If you depend on other Podspecs
   #  you can include multiple dependencies to ensure it works.
 
-  # s.requires_arc = true
+  s.requires_arc = true
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "JSONKit", "~> 1.4"
