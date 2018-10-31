@@ -109,7 +109,8 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  # s.resources = "Resources/*.png"
+   s.resources = "ElePay.framework/AlipaySDK.bundle", "ElePay.framework/Stripe.bundle"
+  #, "ElePay.framework/Braintree-Drop-In-Localization.bundle", "ElePay.framework/Braintree-UI-Localization.bundle"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
@@ -137,6 +138,6 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  # s.dependency "JSONKit", "~> 1.4"
+  s.dependency "Braintree"
 
 end
