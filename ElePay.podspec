@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ElePay"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app."
 
   # This description is used to generate tags and improve search results.
@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
                     then you can satisfy your customers's cashless payment requirement coming from all around the world.
                    DESC
 
-  s.homepage     = "https://elepay.io"
+  s.homepage     = "https://www.elepay.io"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -56,7 +56,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "ELESTYLE, Inc." => "j.t@elestyle.jp" }
+  s.author             = { "ELESTYLE, Inc." => "info@elestyle.jp" }
   # Or just: s.author    = "Xu Zhe"
   # s.authors            = { "Xu Zhe" => "i@xuzhe.com" }
   # s.social_media_url   = "http://twitter.com/Xu Zhe"
