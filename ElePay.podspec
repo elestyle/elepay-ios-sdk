@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ElePay"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app."
 
   # This description is used to generate tags and improve search results.
@@ -109,7 +109,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-   s.resources = "ElePay.framework/AlipaySDK.bundle", "ElePay.framework/Stripe.bundle"
+   s.resources = "ElePay.framework/AlipaySDK.bundle"
   #, "ElePay.framework/Braintree-Drop-In-Localization.bundle", "ElePay.framework/Braintree-UI-Localization.bundle"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
@@ -138,6 +138,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
-  s.dependency "Braintree"
+  s.dependency "Braintree", '4.20.2'
+  s.dependency "Stripe", '14.0.0'
 
 end
