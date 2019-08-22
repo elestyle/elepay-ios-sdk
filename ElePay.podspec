@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ElePay"
-  s.version      = "1.2.1"
+  s.version      = "1.3"
   s.summary      = "elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app."
   s.description  = <<-DESC
                     The elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app.
@@ -18,11 +18,10 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/elestyle/elepay-ios-sdk.git", :tag => "#{s.version}" }
 
-  s.resources = "ElePay.framework/AlipaySDK.bundle"
   s.vendored_frameworks = "ElePay.framework"
 
   s.requires_arc = true
 
-  s.dependency "Braintree", '4.23.0'
-  s.dependency "Stripe", '15.0.1'
+  s.dependency "Braintree", '4.27.0'
+  s.dependency "Stripe", '16.0.6'
 end
