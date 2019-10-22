@@ -8,13 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-#import "WXApi.h"
-#import "WXApiObject.h"
-#import "WechatAuthSDK.h"
-#import "AllPaySDK.h"
-
-#import "AlipaySDK.h"
-
 //! Project version number for Elepay.
 FOUNDATION_EXPORT double ElepayVersionNumber;
 
@@ -23,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char ElepayVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <Elepay/PublicHeader.h>
 
-
+#import "ElepayPlugInbridge.h"
