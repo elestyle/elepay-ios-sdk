@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name         = "ElePay"
-  s.version      = "1.5"
+  s.version      = "1.6.0"
   s.summary      = "elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app."
   s.description  = <<-DESC
                     The elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app.
-                    We provide powerful SDK to support multi-payment methods like Credit Card, LINE Pay, Paidly, PayPal, Alipay, WeChat Pay, etc.
+                    We provide powerful SDK to support multi-payment methods like Credit Card, PayPay, LINE Pay, Paidly, PayPal, Alipay, WeChat Pay, etc.
                     All you need to do is install it once,
                     then you can satisfy your customers's cashless payment requirement coming from all around the world.
                    DESC
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.author             = { "ELESTYLE, Inc." => "info@elestyle.jp" }
 
   s.platform     = :ios, "9.0"
-  s.swift_version = '5.1'
+  s.swift_version = '5.1.2'
 
   s.source       = { :git => "https://github.com/elestyle/elepay-ios-sdk.git", :tag => "#{s.version}" }
 
