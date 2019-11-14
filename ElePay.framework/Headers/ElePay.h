@@ -16,5 +16,5 @@ FOUNDATION_EXPORT const unsigned char ElepayVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <ElePay/PublicHeader.h>
 
-#import <ElePay/ElePayAllpayBridge.h>
+#import <ElePay/ElepayChinesePaymentsBridge.h>
 #import <ElePay/ElePayBraintreeBridge.h>

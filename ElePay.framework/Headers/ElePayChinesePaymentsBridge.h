@@ -10,11 +10,10 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface ElePayAllpayBridge : NSObject
+@interface ElePayChinesePaymentsBridge : NSObject
 
-+ (BOOL)isAllPayAvaliable;
-+ (void)pay:(NSString *)tn mode:(BOOL)mode
-    scheme:(NSString *)schemeStr viewController:(UIViewController *)viewController
++ (BOOL)isChinesePaymentsAvaliable;
++ (void)pay:(NSString *)tn mode:(BOOL)mode scheme:(NSString *)schemeStr viewController:(UIViewController *)viewController
    onResult:(void(^)(NSDictionary * _Nullable resultDic))onResult;
 
 + (void)openURL:(NSURL *)url;
