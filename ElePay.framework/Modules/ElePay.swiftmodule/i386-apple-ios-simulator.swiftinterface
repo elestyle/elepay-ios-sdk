@@ -1,0 +1,739 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)
+// swift-module-flags: -target i386-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ElePay
+import AdSupport
+import CoreLocation
+import Darwin
+@_exported import ElePay
+import Foundation
+import PassKit
+import SafariServices
+import Stripe
+import Swift
+import UIKit
+import WebKit
+public protocol _UInt8Type {
+}
+extension UInt8 : ElePay._UInt8Type {
+}
+extension UInt8 {
+  public func bits() -> [ElePay.Bit]
+  public func bits() -> Swift.String
+}
+extension Rabbit {
+  convenience public init(key: Swift.String) throws
+  convenience public init(key: Swift.String, iv: Swift.String) throws
+}
+public protocol PaddingProtocol {
+  func add(to: Swift.Array<Swift.UInt8>, blockSize: Swift.Int) -> Swift.Array<Swift.UInt8>
+  func remove(from: Swift.Array<Swift.UInt8>, blockSize: Swift.Int?) -> Swift.Array<Swift.UInt8>
+}
+public enum Padding : ElePay.PaddingProtocol {
+  case noPadding, zeroPadding, pkcs7, pkcs5
+  public func add(to: Swift.Array<Swift.UInt8>, blockSize: Swift.Int) -> Swift.Array<Swift.UInt8>
+  public func remove(from: Swift.Array<Swift.UInt8>, blockSize: Swift.Int?) -> Swift.Array<Swift.UInt8>
+  public static func == (a: ElePay.Padding, b: ElePay.Padding) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
+public struct PCBC : ElePay.BlockMode {
+  public enum Error : Swift.Error {
+    case invalidInitializationVector
+    public static func == (a: ElePay.PCBC.Error, b: ElePay.PCBC.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public let options: ElePay.BlockModeOption
+  public init(iv: Swift.Array<Swift.UInt8>)
+  public func worker(blockSize: Swift.Int, cipherOperation: @escaping ElePay.CipherOperationOnBlock) throws -> ElePay.BlockModeWorker
+}
+extension PKCS5 {
+  public struct PBKDF1 {
+    public enum Error : Swift.Error {
+      case invalidInput
+      case derivedKeyTooLong
+      public static func == (a: ElePay.PKCS5.PBKDF1.Error, b: ElePay.PKCS5.PBKDF1.Error) -> Swift.Bool
+      public var hashValue: Swift.Int {
+        get
+      }
+      public func hash(into hasher: inout Swift.Hasher)
+    }
+    public enum Variant {
+      case md5, sha1
+      public static func == (a: ElePay.PKCS5.PBKDF1.Variant, b: ElePay.PKCS5.PBKDF1.Variant) -> Swift.Bool
+      public var hashValue: Swift.Int {
+        get
+      }
+      public func hash(into hasher: inout Swift.Hasher)
+    }
+    public init(password: Swift.Array<Swift.UInt8>, salt: Swift.Array<Swift.UInt8>, variant: ElePay.PKCS5.PBKDF1.Variant = .sha1, iterations: Swift.Int = 4096, keyLength: Swift.Int? = nil) throws
+    public func calculate() -> Swift.Array<Swift.UInt8>
+  }
+}
+extension ElePay {
+  public static func deviceSupportsApplePay() -> Swift.Bool
+}
+final public class CMAC : ElePay.Authenticator {
+  public enum Error : Swift.Error {
+    case wrongKeyLength
+    public static func == (a: ElePay.CMAC.Error, b: ElePay.CMAC.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public init(key: Swift.Array<Swift.UInt8>) throws
+  final public func authenticate(_ bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  @objc deinit
+}
+extension AES : ElePay.Cryptors {
+  final public func makeEncryptor() throws -> ElePay.AES.Encryptor
+  final public func makeDecryptor() throws -> ElePay.AES.Decryptor
+}
+extension AES {
+  public struct Encryptor : ElePay.Cryptor, ElePay.Updatable {
+    mutating public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+  }
+}
+extension AES {
+  public struct Decryptor : ElePay.RandomAccessCryptor, ElePay.Updatable {
+    mutating public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+    @discardableResult
+    mutating public func seek(to position: Swift.Int) -> Swift.Bool
+  }
+}
+public protocol BlockModeWorker {
+  var cipherOperation: ElePay.CipherOperationOnBlock { get }
+  var blockSize: Swift.Int { get }
+  var additionalBufferSize: Swift.Int { get }
+  mutating func encrypt(block plaintext: Swift.ArraySlice<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  mutating func decrypt(block ciphertext: Swift.ArraySlice<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+}
+public protocol BlockModeWorkerFinalizing : ElePay.BlockModeWorker {
+  mutating func finalize(encrypt ciphertext: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  mutating func willDecryptLast(block ciphertext: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.ArraySlice<Swift.UInt8>
+  mutating func didDecryptLast(block plaintext: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+}
+public struct CFB : ElePay.BlockMode {
+  public enum Error : Swift.Error {
+    case invalidInitializationVector
+    public static func == (a: ElePay.CFB.Error, b: ElePay.CFB.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public let options: ElePay.BlockModeOption
+  public init(iv: Swift.Array<Swift.UInt8>)
+  public func worker(blockSize: Swift.Int, cipherOperation: @escaping ElePay.CipherOperationOnBlock) throws -> ElePay.BlockModeWorker
+}
+public enum PKCS7 {
+}
+public struct CTR : ElePay.BlockMode {
+  public enum Error : Swift.Error {
+    case invalidInitializationVector
+    public static func == (a: ElePay.CTR.Error, b: ElePay.CTR.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public let options: ElePay.BlockModeOption
+  public init(iv: Swift.Array<Swift.UInt8>)
+  public func worker(blockSize: Swift.Int, cipherOperation: @escaping ElePay.CipherOperationOnBlock) throws -> ElePay.BlockModeWorker
+}
+public struct CBC : ElePay.BlockMode {
+  public enum Error : Swift.Error {
+    case invalidInitializationVector
+    public static func == (a: ElePay.CBC.Error, b: ElePay.CBC.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public let options: ElePay.BlockModeOption
+  public init(iv: Swift.Array<Swift.UInt8>)
+  public func worker(blockSize: Swift.Int, cipherOperation: @escaping ElePay.CipherOperationOnBlock) throws -> ElePay.BlockModeWorker
+}
+public struct ElePayCardParams {
+  public var number: Swift.String?
+  public var expMonth: Swift.UInt
+  public var expYear: Swift.UInt
+  public var cvc: Swift.String?
+  public var name: Swift.String?
+  public var address: Swift.String?
+  public var currency: Swift.String?
+  public init()
+  public func last4() -> Swift.String?
+}
+public enum PKCS5 {
+}
+final public class AEADChaCha20Poly1305 : ElePay.AEAD {
+  public static let kLen: Swift.Int
+  public static var ivRange: Swift.Range<Swift.Int>
+  public static func encrypt(_ plainText: Swift.Array<Swift.UInt8>, key: Swift.Array<Swift.UInt8>, iv: Swift.Array<Swift.UInt8>, authenticationHeader: Swift.Array<Swift.UInt8>) throws -> (cipherText: Swift.Array<Swift.UInt8>, authenticationTag: Swift.Array<Swift.UInt8>)
+  public static func decrypt(_ cipherText: Swift.Array<Swift.UInt8>, key: Swift.Array<Swift.UInt8>, iv: Swift.Array<Swift.UInt8>, authenticationHeader: Swift.Array<Swift.UInt8>, authenticationTag: Swift.Array<Swift.UInt8>) throws -> (plainText: Swift.Array<Swift.UInt8>, success: Swift.Bool)
+  @objc deinit
+}
+public struct HKDF {
+  public enum Error : Swift.Error {
+    case invalidInput
+    case derivedKeyTooLong
+    public static func == (a: ElePay.HKDF.Error, b: ElePay.HKDF.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public init(password: Swift.Array<Swift.UInt8>, salt: Swift.Array<Swift.UInt8>? = nil, info: Swift.Array<Swift.UInt8>? = nil, keyLength: Swift.Int? = nil, variant: ElePay.HMAC.Variant = .sha256) throws
+  public func calculate() throws -> Swift.Array<Swift.UInt8>
+}
+final public class ChaCha20 {
+  public enum Error : Swift.Error {
+    case invalidKeyOrInitializationVector
+    public static func == (a: ElePay.ChaCha20.Error, b: ElePay.ChaCha20.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public static let blockSize: Swift.Int
+  final public let keySize: Swift.Int
+  public init(key: Swift.Array<Swift.UInt8>, iv nonce: Swift.Array<Swift.UInt8>) throws
+  @objc deinit
+}
+extension ChaCha20 : ElePay.Cipher {
+  final public func encrypt(_ bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  final public func decrypt(_ bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+}
+extension ChaCha20 {
+  public struct Encryptor : ElePay.Cryptor, ElePay.Updatable {
+    mutating public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+  }
+}
+extension ChaCha20 {
+  public struct Decryptor : ElePay.Cryptor, ElePay.Updatable {
+    mutating public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = true) throws -> Swift.Array<Swift.UInt8>
+  }
+}
+extension ChaCha20 : ElePay.Cryptors {
+  final public func makeEncryptor() -> ElePay.ChaCha20.Encryptor
+  final public func makeDecryptor() -> ElePay.ChaCha20.Decryptor
+}
+public protocol AEAD {
+  static var kLen: Swift.Int { get }
+  static var ivRange: Swift.Range<Swift.Int> { get }
+}
+extension ChaCha20 {
+  convenience public init(key: Swift.String, iv: Swift.String) throws
+}
+extension String {
+  public var bytes: Swift.Array<Swift.UInt8> {
+    get
+  }
+  public func md5() -> Swift.String
+  public func sha1() -> Swift.String
+  public func sha224() -> Swift.String
+  public func sha256() -> Swift.String
+  public func sha384() -> Swift.String
+  public func sha512() -> Swift.String
+  public func sha3(_ variant: ElePay.SHA3.Variant) -> Swift.String
+  public func crc32(seed: Swift.UInt32? = nil, reflect: Swift.Bool = true) -> Swift.String
+  public func crc32c(seed: Swift.UInt32? = nil, reflect: Swift.Bool = true) -> Swift.String
+  public func crc16(seed: Swift.UInt16? = nil) -> Swift.String
+  public func encrypt(cipher: ElePay.Cipher) throws -> Swift.String
+  public func encryptToBase64(cipher: ElePay.Cipher) throws -> Swift.String?
+  public func authenticate<A>(with authenticator: A) throws -> Swift.String where A : ElePay.Authenticator
+}
+final public class Checksum {
+  @objc deinit
+}
+extension Checksum {
+  public static func crc32(_ message: Swift.Array<Swift.UInt8>, seed: Swift.UInt32? = nil, reflect: Swift.Bool = true) -> Swift.UInt32
+  public static func crc32c(_ message: Swift.Array<Swift.UInt8>, seed: Swift.UInt32? = nil, reflect: Swift.Bool = true) -> Swift.UInt32
+  public static func crc16(_ message: Swift.Array<Swift.UInt8>, seed: Swift.UInt16? = nil) -> Swift.UInt16
+}
+extension AES {
+  convenience public init(key: Swift.String, iv: Swift.String, padding: ElePay.Padding = .pkcs7) throws
+}
+public enum ElePayWebPaymentResult {
+  case succeeded
+  case failed(message: Swift.String?)
+  case cancelled
+  case capture(token: Swift.String?)
+}
+public typealias ElePayWebPaymentResultHandler = (ElePay.ElePayWebPaymentResult) -> Swift.Void
+public typealias Hash = ElePay.Digest
+public struct Digest {
+  public static func md5(_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  public static func sha1(_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  public static func sha224(_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  public static func sha256(_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  public static func sha384(_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  public static func sha512(_ bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  public static func sha2(_ bytes: Swift.Array<Swift.UInt8>, variant: ElePay.SHA2.Variant) -> Swift.Array<Swift.UInt8>
+  public static func sha3(_ bytes: Swift.Array<Swift.UInt8>, variant: ElePay.SHA3.Variant) -> Swift.Array<Swift.UInt8>
+}
+extension Array where Element == Swift.UInt8 {
+  public func toBase64() -> Swift.String?
+  public init(base64: Swift.String)
+}
+final public class SHA3 {
+  final public let blockSize: Swift.Int
+  final public let digestLength: Swift.Int
+  final public let markByte: Swift.UInt8
+  public enum Variant {
+    case sha224, sha256, sha384, sha512, keccak224, keccak256, keccak384, keccak512
+    public var outputLength: Swift.Int {
+      get
+    }
+    public static func == (a: ElePay.SHA3.Variant, b: ElePay.SHA3.Variant) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public init(variant: ElePay.SHA3.Variant)
+  final public func calculate(for bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  @objc deinit
+}
+extension SHA3 : ElePay.Updatable {
+  final public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+}
+final public class SHA1 {
+  public init()
+  final public func calculate(for bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  @objc deinit
+}
+extension SHA1 : ElePay.Updatable {
+  @discardableResult
+  final public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+}
+extension String {
+  public func decryptBase64ToString(cipher: ElePay.Cipher) throws -> Swift.String
+  public func decryptBase64(cipher: ElePay.Cipher) throws -> Swift.Array<Swift.UInt8>
+}
+final public class HMAC : ElePay.Authenticator {
+  public enum Error : Swift.Error {
+    case authenticateError
+    case invalidInput
+    public static func == (a: ElePay.HMAC.Error, b: ElePay.HMAC.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public enum Variant {
+    case sha1, sha256, sha384, sha512, md5
+    public static func == (a: ElePay.HMAC.Variant, b: ElePay.HMAC.Variant) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public init(key: Swift.Array<Swift.UInt8>, variant: ElePay.HMAC.Variant = .md5)
+  final public func authenticate(_ bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  @objc deinit
+}
+public struct BlockModeOption : Swift.OptionSet {
+  public let rawValue: Swift.Int
+  public init(rawValue: Swift.Int)
+  public init(rawValue: Swift.Int, authenticationTagSize: Swift.Int)
+  public typealias Element = ElePay.BlockModeOption
+  public typealias ArrayLiteralElement = ElePay.BlockModeOption
+  public typealias RawValue = Swift.Int
+}
+public protocol Cryptors : AnyObject {
+  associatedtype Encryptor : ElePay.Cryptor
+  associatedtype Decryptor : ElePay.Cryptor
+  func makeEncryptor() throws -> Self.Encryptor
+  func makeDecryptor() throws -> Self.Decryptor
+  static func randomIV(_ blockSize: Swift.Int) -> Swift.Array<Swift.UInt8>
+}
+extension Cryptors {
+  public static func randomIV(_ blockSize: Swift.Int) -> Swift.Array<Swift.UInt8>
+}
+final public class Poly1305 : ElePay.Authenticator {
+  public enum Error : Swift.Error {
+    case authenticateError
+    public static func == (a: ElePay.Poly1305.Error, b: ElePay.Poly1305.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public static let blockSize: Swift.Int
+  public init(key: Swift.Array<Swift.UInt8>)
+  final public func authenticate(_ bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  @objc deinit
+}
+public enum Bit : Swift.Int {
+  case zero
+  case one
+  public typealias RawValue = Swift.Int
+  public init?(rawValue: Swift.Int)
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+public enum CipherError : Swift.Error {
+  case encrypt
+  case decrypt
+  public static func == (a: ElePay.CipherError, b: ElePay.CipherError) -> Swift.Bool
+  public var hashValue: Swift.Int {
+    get
+  }
+  public func hash(into hasher: inout Swift.Hasher)
+}
+public protocol Cipher : AnyObject {
+  var keySize: Swift.Int { get }
+  func encrypt(_ bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  func encrypt(_ bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  func decrypt(_ bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  func decrypt(_ bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+}
+extension Cipher {
+  public func encrypt(_ bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  public func decrypt(_ bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+}
+final public class MD5 {
+  public init()
+  final public func calculate(for bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  @objc deinit
+}
+extension MD5 : ElePay.Updatable {
+  final public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+}
+public struct ECB : ElePay.BlockMode {
+  public let options: ElePay.BlockModeOption
+  public init()
+  public func worker(blockSize: Swift.Int, cipherOperation: @escaping ElePay.CipherOperationOnBlock) throws -> ElePay.BlockModeWorker
+}
+extension HMAC {
+  convenience public init(key: Swift.String, variant: ElePay.HMAC.Variant = .md5) throws
+}
+extension Data {
+  public func checksum() -> Swift.UInt16
+  public func md5() -> Foundation.Data
+  public func sha1() -> Foundation.Data
+  public func sha224() -> Foundation.Data
+  public func sha256() -> Foundation.Data
+  public func sha384() -> Foundation.Data
+  public func sha512() -> Foundation.Data
+  public func sha3(_ variant: ElePay.SHA3.Variant) -> Foundation.Data
+  public func crc32(seed: Swift.UInt32? = nil, reflect: Swift.Bool = true) -> Foundation.Data
+  public func crc32c(seed: Swift.UInt32? = nil, reflect: Swift.Bool = true) -> Foundation.Data
+  public func crc16(seed: Swift.UInt16? = nil) -> Foundation.Data
+  public func encrypt(cipher: ElePay.Cipher) throws -> Foundation.Data
+  public func decrypt(cipher: ElePay.Cipher) throws -> Foundation.Data
+  public func authenticate(with authenticator: ElePay.Authenticator) throws -> Foundation.Data
+}
+extension Data {
+  public init(hex: Swift.String)
+  public var bytes: Swift.Array<Swift.UInt8> {
+    get
+  }
+  public func toHexString() -> Swift.String
+}
+extension Blowfish {
+  convenience public init(key: Swift.String, iv: Swift.String, padding: ElePay.Padding = .pkcs7) throws
+}
+final public class Rabbit {
+  public enum Error : Swift.Error {
+    case invalidKeyOrInitializationVector
+    public static func == (a: ElePay.Rabbit.Error, b: ElePay.Rabbit.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public static let ivSize: Swift.Int
+  public static let keySize: Swift.Int
+  public static let blockSize: Swift.Int
+  final public var keySize: Swift.Int {
+    get
+  }
+  convenience public init(key: Swift.Array<Swift.UInt8>) throws
+  public init(key: Swift.Array<Swift.UInt8>, iv: Swift.Array<Swift.UInt8>?) throws
+  @objc deinit
+}
+extension Rabbit : ElePay.Cipher {
+  final public func encrypt(_ bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  final public func decrypt(_ bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+}
+extension PKCS5 {
+  public struct PBKDF2 {
+    public enum Error : Swift.Error {
+      case invalidInput
+      case derivedKeyTooLong
+      public static func == (a: ElePay.PKCS5.PBKDF2.Error, b: ElePay.PKCS5.PBKDF2.Error) -> Swift.Bool
+      public var hashValue: Swift.Int {
+        get
+      }
+      public func hash(into hasher: inout Swift.Hasher)
+    }
+    public init(password: Swift.Array<Swift.UInt8>, salt: Swift.Array<Swift.UInt8>, iterations: Swift.Int = 4096, keyLength: Swift.Int? = nil, variant: ElePay.HMAC.Variant = .sha256) throws
+    public func calculate() throws -> Swift.Array<Swift.UInt8>
+  }
+}
+public typealias ElePayResultHandler = (ElePay.ElePayResult) -> Swift.Void
+final public class ElePay {
+  public static let shared: ElePay.ElePay
+  public static var isInitialized: Swift.Bool {
+    get
+    }
+  public static var initializing: Swift.Bool
+  public static var isMakingPayments: Swift.Bool {
+    get
+    }
+  public static var appKey: Swift.String {
+    get
+    }
+  public static func initApp(key: Swift.String, apiURLString: Swift.String? = nil)
+  public static func handlePayment(chargeJSON: Swift.String, cardParams: ElePay.ElePayCardParams? = nil, viewController: UIKit.UIViewController, completion: @escaping ElePay.ElePayResultHandler) -> Swift.Bool
+  public static func handlePayment(chargeData: Foundation.Data, cardParams: ElePay.ElePayCardParams? = nil, viewController: UIKit.UIViewController, completion: @escaping ElePay.ElePayResultHandler) -> Swift.Bool
+  public static func handlePayment(charge: [Swift.String : Any], cardParams: ElePay.ElePayCardParams? = nil, viewController: UIKit.UIViewController, completion: @escaping ElePay.ElePayResultHandler) -> Swift.Bool
+  public static func handleOpenURL(_ url: Foundation.URL, options: [UIKit.UIApplication.OpenURLOptionsKey : Any] = [:]) -> Swift.Bool
+  @objc deinit
+}
+public struct OFB : ElePay.BlockMode {
+  public enum Error : Swift.Error {
+    case invalidInitializationVector
+    public static func == (a: ElePay.OFB.Error, b: ElePay.OFB.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public let options: ElePay.BlockModeOption
+  public init(iv: Swift.Array<Swift.UInt8>)
+  public func worker(blockSize: Swift.Int, cipherOperation: @escaping ElePay.CipherOperationOnBlock) throws -> ElePay.BlockModeWorker
+}
+final public class SHA2 {
+  public enum Variant : Swift.RawRepresentable {
+    case sha224, sha256, sha384, sha512
+    public var digestLength: Swift.Int {
+      get
+    }
+    public var blockSize: Swift.Int {
+      get
+    }
+    public typealias RawValue = Swift.Int
+    public var rawValue: ElePay.SHA2.Variant.RawValue {
+      get
+    }
+    public init?(rawValue: ElePay.SHA2.Variant.RawValue)
+  }
+  public init(variant: ElePay.SHA2.Variant)
+  final public func calculate(for bytes: Swift.Array<Swift.UInt8>) -> Swift.Array<Swift.UInt8>
+  @objc deinit
+}
+extension SHA2 : ElePay.Updatable {
+  final public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+}
+public enum ElePayResult : Swift.CustomDebugStringConvertible {
+  case succeeded(paymentId: Swift.String)
+  case failed(paymentId: Swift.String?, error: ElePay.ElePayError)
+  case cancelled(paymentId: Swift.String)
+  public var debugDescription: Swift.String {
+    get
+  }
+}
+public enum ElePayError : Swift.Error {
+  case unsupportedPaymentMethod(errorCode: Swift.String, paymentMethod: Swift.String)
+  case alreadyMakingPayment(paymentId: Swift.String)
+  case invalidPayload(errorCode: Swift.String, message: Swift.String)
+  case paymentMethodNotInitialized(errorCode: Swift.String, message: Swift.String)
+  case systemError(errorCode: Swift.String, message: Swift.String)
+  case serverError(errorCode: Swift.String, message: Swift.String)
+  case paymentFailure(errorCode: Swift.String, message: Swift.String)
+}
+extension ElePayError : Foundation.LocalizedError {
+  public var errorDescription: Swift.String? {
+    get
+  }
+}
+public protocol Cryptor {
+}
+public protocol RandomAccessCryptor : ElePay.Cryptor {
+  @discardableResult
+  mutating func seek(to: Swift.Int) -> Swift.Bool
+}
+public protocol Updatable {
+  mutating func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool) throws -> Swift.Array<Swift.UInt8>
+  mutating func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+}
+extension Updatable {
+  mutating public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  mutating public func update(withBytes bytes: Swift.Array<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+  mutating public func update(withBytes bytes: Swift.Array<Swift.UInt8>, isLast: Swift.Bool = false, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  mutating public func finish(withBytes bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  mutating public func finish(withBytes bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  mutating public func finish() throws -> Swift.Array<Swift.UInt8>
+  mutating public func finish(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  mutating public func finish(withBytes bytes: Swift.Array<Swift.UInt8>, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  mutating public func finish(output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+}
+final public class GCM : ElePay.BlockMode {
+  public enum Mode {
+    case combined
+    case detached
+    public static func == (a: ElePay.GCM.Mode, b: ElePay.GCM.Mode) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  final public let options: ElePay.BlockModeOption
+  public enum Error : Swift.Error {
+    case invalidInitializationVector
+    case fail
+    public static func == (a: ElePay.GCM.Error, b: ElePay.GCM.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  final public var authenticationTag: Swift.Array<Swift.UInt8>?
+  public init(iv: Swift.Array<Swift.UInt8>, additionalAuthenticatedData: Swift.Array<Swift.UInt8>? = nil, mode: ElePay.GCM.Mode = .detached)
+  convenience public init(iv: Swift.Array<Swift.UInt8>, authenticationTag: Swift.Array<Swift.UInt8>, additionalAuthenticatedData: Swift.Array<Swift.UInt8>? = nil, mode: ElePay.GCM.Mode = .detached)
+  final public func worker(blockSize: Swift.Int, cipherOperation: @escaping ElePay.CipherOperationOnBlock) throws -> ElePay.BlockModeWorker
+  @objc deinit
+}
+public protocol Authenticator {
+  func authenticate(_ bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+}
+public typealias CipherOperationOnBlock = (Swift.ArraySlice<Swift.UInt8>) -> Swift.Array<Swift.UInt8>?
+public protocol BlockMode {
+  var options: ElePay.BlockModeOption { get }
+  func worker(blockSize: Swift.Int, cipherOperation: @escaping ElePay.CipherOperationOnBlock) throws -> ElePay.BlockModeWorker
+}
+extension Array {
+  public init(reserveCapacity: Swift.Int)
+}
+extension Array where Element == Swift.UInt8 {
+  public init(hex: Swift.String)
+  public func toHexString() -> Swift.String
+}
+extension Array where Element == Swift.UInt8 {
+  public func chunks(size chunksize: Swift.Int) -> Swift.Array<Swift.Array<Element>>
+  public func md5() -> [Element]
+  public func sha1() -> [Element]
+  public func sha224() -> [Element]
+  public func sha256() -> [Element]
+  public func sha384() -> [Element]
+  public func sha512() -> [Element]
+  public func sha2(_ variant: ElePay.SHA2.Variant) -> [Element]
+  public func sha3(_ variant: ElePay.SHA3.Variant) -> [Element]
+  public func crc32(seed: Swift.UInt32? = nil, reflect: Swift.Bool = true) -> Swift.UInt32
+  public func crc32c(seed: Swift.UInt32? = nil, reflect: Swift.Bool = true) -> Swift.UInt32
+  public func crc16(seed: Swift.UInt16? = nil) -> Swift.UInt16
+  public func encrypt(cipher: ElePay.Cipher) throws -> [Element]
+  public func decrypt(cipher: ElePay.Cipher) throws -> [Element]
+  public func authenticate<A>(with authenticator: A) throws -> [Element] where A : ElePay.Authenticator
+}
+final public class AES {
+  public enum Error : Swift.Error {
+    case invalidKeySize
+    case dataPaddingRequired
+    case invalidData
+    public static func == (a: ElePay.AES.Error, b: ElePay.AES.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public enum Variant : Swift.Int {
+    case aes128, aes192, aes256
+    public typealias RawValue = Swift.Int
+    public init?(rawValue: Swift.Int)
+    public var rawValue: Swift.Int {
+      get
+    }
+  }
+  public static let blockSize: Swift.Int
+  final public let keySize: Swift.Int
+  final public let variant: ElePay.AES.Variant
+  public init(key: Swift.Array<Swift.UInt8>, blockMode: ElePay.BlockMode, padding: ElePay.Padding = .pkcs7) throws
+  @objc deinit
+}
+extension AES : ElePay.Cipher {
+  final public func encrypt(_ bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  final public func decrypt(_ bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+}
+final public class Blowfish {
+  public enum Error : Swift.Error {
+    case dataPaddingRequired
+    case invalidKeyOrInitializationVector
+    case invalidInitializationVector
+    case invalidBlockMode
+    public static func == (a: ElePay.Blowfish.Error, b: ElePay.Blowfish.Error) -> Swift.Bool
+    public var hashValue: Swift.Int {
+      get
+    }
+    public func hash(into hasher: inout Swift.Hasher)
+  }
+  public static let blockSize: Swift.Int
+  final public let keySize: Swift.Int
+  public init(key: Swift.Array<Swift.UInt8>, blockMode: ElePay.BlockMode = CBC(iv: Array<UInt8>(repeating: 0, count: Blowfish.blockSize)), padding: ElePay.Padding) throws
+  @objc deinit
+}
+extension Blowfish : ElePay.Cipher {
+  final public func encrypt<C>(_ bytes: C) throws -> Swift.Array<Swift.UInt8> where C : Swift.Collection, C.Element == Swift.UInt8, C.Index == Swift.Int
+  final public func decrypt<C>(_ bytes: C) throws -> Swift.Array<Swift.UInt8> where C : Swift.Collection, C.Element == Swift.UInt8, C.Index == Swift.Int
+}
+extension ElePay.Padding : Swift.Equatable {}
+extension ElePay.Padding : Swift.Hashable {}
+extension ElePay.PCBC.Error : Swift.Equatable {}
+extension ElePay.PCBC.Error : Swift.Hashable {}
+extension ElePay.PKCS5.PBKDF1.Error : Swift.Equatable {}
+extension ElePay.PKCS5.PBKDF1.Error : Swift.Hashable {}
+extension ElePay.PKCS5.PBKDF1.Variant : Swift.Equatable {}
+extension ElePay.PKCS5.PBKDF1.Variant : Swift.Hashable {}
+extension ElePay.CMAC.Error : Swift.Equatable {}
+extension ElePay.CMAC.Error : Swift.Hashable {}
+extension ElePay.CFB.Error : Swift.Equatable {}
+extension ElePay.CFB.Error : Swift.Hashable {}
+extension ElePay.CTR.Error : Swift.Equatable {}
+extension ElePay.CTR.Error : Swift.Hashable {}
+extension ElePay.CBC.Error : Swift.Equatable {}
+extension ElePay.CBC.Error : Swift.Hashable {}
+extension ElePay.HKDF.Error : Swift.Equatable {}
+extension ElePay.HKDF.Error : Swift.Hashable {}
+extension ElePay.ChaCha20.Error : Swift.Equatable {}
+extension ElePay.ChaCha20.Error : Swift.Hashable {}
+extension ElePay.SHA3.Variant : Swift.Equatable {}
+extension ElePay.SHA3.Variant : Swift.Hashable {}
+extension ElePay.HMAC.Error : Swift.Equatable {}
+extension ElePay.HMAC.Error : Swift.Hashable {}
+extension ElePay.HMAC.Variant : Swift.Equatable {}
+extension ElePay.HMAC.Variant : Swift.Hashable {}
+extension ElePay.Poly1305.Error : Swift.Equatable {}
+extension ElePay.Poly1305.Error : Swift.Hashable {}
+extension ElePay.Bit : Swift.Hashable {}
+extension ElePay.Bit : Swift.RawRepresentable {}
+extension ElePay.CipherError : Swift.Equatable {}
+extension ElePay.CipherError : Swift.Hashable {}
+extension ElePay.Rabbit.Error : Swift.Equatable {}
+extension ElePay.Rabbit.Error : Swift.Hashable {}
+extension ElePay.PKCS5.PBKDF2.Error : Swift.Equatable {}
+extension ElePay.PKCS5.PBKDF2.Error : Swift.Hashable {}
+extension ElePay.OFB.Error : Swift.Equatable {}
+extension ElePay.OFB.Error : Swift.Hashable {}
+extension ElePay.SHA2.Variant : Swift.Equatable {}
+extension ElePay.SHA2.Variant : Swift.Hashable {}
+extension ElePay.GCM.Mode : Swift.Equatable {}
+extension ElePay.GCM.Mode : Swift.Hashable {}
+extension ElePay.GCM.Error : Swift.Equatable {}
+extension ElePay.GCM.Error : Swift.Hashable {}
+extension ElePay.AES.Error : Swift.Equatable {}
+extension ElePay.AES.Error : Swift.Hashable {}
+extension ElePay.AES.Variant : Swift.Equatable {}
+extension ElePay.AES.Variant : Swift.Hashable {}
+extension ElePay.AES.Variant : Swift.RawRepresentable {}
+extension ElePay.Blowfish.Error : Swift.Equatable {}
+extension ElePay.Blowfish.Error : Swift.Hashable {}
