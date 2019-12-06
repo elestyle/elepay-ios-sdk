@@ -14,6 +14,7 @@ v1.1.5 は Swift 4.2.1 でビルドした最後のバージョンです。
 v1.2 からは Swift 5.0.1 でビルドします。  
 v1.3.2 からは Swift 5.1 でビルドします。  
 v1.6.0 からは Swift 5.1.2 でビルドします。  
+v1.7.1 からは「Build for Distribution」でコンパイルしますので、その後 Swift のバージョンを気にしなくてご利用できます。
 
 # elepay-ios-sdk
 **elepay iOS SDK** is made for your iOS Apps to easily import elepay multi-payment platform. For more details, please access the link below.
@@ -30,3 +31,4 @@ v1.1.5 is the final version which compiled with Swift 4.2.1.
 From v1.2 the SDK was compiled with Swift 5.0.1.  
 From v1.3.2 the SDK was compiled with Swift 5.1.  
 From v1.6.0 the SDK will be compiled with Swift 5.1.2.  
+From v1.7.1, the SDK will compiled with "Build for Distribution" set to YES, so you can forget the Swift version from now on.

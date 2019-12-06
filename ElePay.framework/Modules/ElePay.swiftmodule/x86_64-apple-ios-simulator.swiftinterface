@@ -86,7 +86,6 @@ public struct ElePayCardParams {
   public var name: Swift.String?
   public var address: Swift.String?
   public var currency: Swift.String?
-  public init()
   public func last4() -> Swift.String?
 }
 public struct PCBC : ElePay.BlockMode {
