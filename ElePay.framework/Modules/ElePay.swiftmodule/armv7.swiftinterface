@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)
+// swift-compiler-version: Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)
 // swift-module-flags: -target armv7-apple-ios9.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ElePay
 import AdSupport
 import CoreLocation
@@ -545,6 +545,7 @@ final public class ElePay {
   public static func handlePayment(chargeData: Foundation.Data, cardParams: ElePay.ElePayCardParams? = nil, viewController: UIKit.UIViewController, completion: @escaping ElePay.ElePayResultHandler) -> Swift.Bool
   public static func handlePayment(charge: [Swift.String : Any], cardParams: ElePay.ElePayCardParams? = nil, viewController: UIKit.UIViewController, completion: @escaping ElePay.ElePayResultHandler) -> Swift.Bool
   public static func handleOpenURL(_ url: Foundation.URL, options: [UIKit.UIApplication.OpenURLOptionsKey : Any] = [:]) -> Swift.Bool
+  public static func handleUniversalLink(_ userActivity: Foundation.NSUserActivity, restorationHandler: @escaping ([Any]?) -> Swift.Void) -> Swift.Bool
   @objc deinit
 }
 public protocol AEAD {
