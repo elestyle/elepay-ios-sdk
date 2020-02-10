@@ -636,6 +636,15 @@ public protocol BlockMode {
   var options: ElePay.BlockModeOption { get }
   func worker(blockSize: Swift.Int, cipherOperation: @escaping ElePay.CipherOperationOnBlock) throws -> ElePay.CipherModeWorker
 }
+final public class ElePayLocalization {
+  public static let shared: ElePay.ElePayLocalization
+  @objc deinit
+}
+extension ElePayLocalization {
+  final public func switchLanguage(code: ElePay.ElePayLanguageCode)
+  final public func isLocalized(for languageCode: ElePay.ElePayLanguageCode) -> Swift.Bool
+  final public func isLocalized(for languageCode: ElePay.ElePayLanguageCode, keys: [Swift.String]) -> Swift.Bool
+}
 public protocol CipherModeWorker {
   var cipherOperation: ElePay.CipherOperationOnBlock { get }
   var additionalBufferSize: Swift.Int { get }
@@ -689,6 +698,18 @@ public enum ElePayError : Swift.Error {
 }
 extension ElePayError : Foundation.LocalizedError {
   public var errorDescription: Swift.String? {
+    get
+  }
+}
+public enum ElePayLanguageCode : Swift.String {
+  case cn
+  case en
+  case tw
+  case ja
+  public init(stringPresentation: Swift.String)
+  public typealias RawValue = Swift.String
+  public init?(rawValue: Swift.String)
+  public var rawValue: Swift.String {
     get
   }
 }
@@ -770,6 +791,9 @@ extension ElePay.GCM.Error : Swift.Equatable {}
 extension ElePay.GCM.Error : Swift.Hashable {}
 extension ElePay.Rabbit.Error : Swift.Equatable {}
 extension ElePay.Rabbit.Error : Swift.Hashable {}
+extension ElePay.ElePayLanguageCode : Swift.Equatable {}
+extension ElePay.ElePayLanguageCode : Swift.Hashable {}
+extension ElePay.ElePayLanguageCode : Swift.RawRepresentable {}
 extension ElePay.CBC.Error : Swift.Equatable {}
 extension ElePay.CBC.Error : Swift.Hashable {}
 extension ElePay.HKDF.Error : Swift.Equatable {}

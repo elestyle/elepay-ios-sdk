@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ElePay"
-  s.version      = "1.7.3"
+  s.version      = "1.7.4-alpha1"
   s.summary      = "elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app."
   s.description  = <<-DESC
                     The elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app.
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.author             = { "ELESTYLE, Inc." => "info@elestyle.jp" }
 
   s.platform     = :ios, "9.0"
-  s.swift_version = '5.1.2'
+  s.swift_version = '5.1.3'
 
   s.source       = { :git => "https://github.com/elestyle/elepay-ios-sdk.git", :tag => "#{s.version}" }
 
