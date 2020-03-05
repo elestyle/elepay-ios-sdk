@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)
+// swift-compiler-version: Apple Swift version 5.2 (swiftlang-1103.0.30 clang-1103.0.30)
 // swift-module-flags: -target arm64-apple-ios9.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ElePay
 import AdSupport
 import CoreLocation
@@ -120,7 +120,7 @@ extension Rabbit {
   convenience public init(key: Swift.String) throws
   convenience public init(key: Swift.String, iv: Swift.String) throws
 }
-final public class Checksum {
+@_hasMissingDesignatedInitializers final public class Checksum {
   @objc deinit
 }
 extension Checksum {
@@ -318,13 +318,13 @@ extension ChaCha20 : ElePay.Cipher {
 }
 extension ChaCha20 {
   public struct ChaChaEncryptor : ElePay.Cryptor, ElePay.Updatable {
-    mutating public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+    public mutating func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
     public func seek(to: Swift.Int) throws
   }
 }
 extension ChaCha20 {
   public struct ChaChaDecryptor : ElePay.Cryptor, ElePay.Updatable {
-    mutating public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = true) throws -> Swift.Array<Swift.UInt8>
+    public mutating func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = true) throws -> Swift.Array<Swift.UInt8>
     public func seek(to: Swift.Int) throws
   }
 }
@@ -402,16 +402,16 @@ public protocol Updatable {
   mutating func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
 }
 extension Updatable {
-  mutating public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
-  mutating public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
-  mutating public func update(withBytes bytes: Swift.Array<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
-  mutating public func update(withBytes bytes: Swift.Array<Swift.UInt8>, isLast: Swift.Bool = false, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
-  mutating public func finish(withBytes bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
-  mutating public func finish(withBytes bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
-  mutating public func finish() throws -> Swift.Array<Swift.UInt8>
-  mutating public func finish(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
-  mutating public func finish(withBytes bytes: Swift.Array<Swift.UInt8>, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
-  mutating public func finish(output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  public mutating func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  public mutating func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+  public mutating func update(withBytes bytes: Swift.Array<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
+  public mutating func update(withBytes bytes: Swift.Array<Swift.UInt8>, isLast: Swift.Bool = false, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  public mutating func finish(withBytes bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  public mutating func finish(withBytes bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
+  public mutating func finish() throws -> Swift.Array<Swift.UInt8>
+  public mutating func finish(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  public mutating func finish(withBytes bytes: Swift.Array<Swift.UInt8>, output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
+  public mutating func finish(output: (Swift.Array<Swift.UInt8>) -> Swift.Void) throws
 }
 final public class SHA2 {
   public enum Variant : Swift.RawRepresentable {
@@ -438,7 +438,7 @@ extension SHA2 : ElePay.Updatable {
 public protocol Cryptor {
   mutating func seek(to: Swift.Int) throws
 }
-public class BlockDecryptor : ElePay.Cryptor, ElePay.Updatable {
+@_hasMissingDesignatedInitializers public class BlockDecryptor : ElePay.Cryptor, ElePay.Updatable {
   public func update(withBytes bytes: Swift.ArraySlice<Swift.UInt8>, isLast: Swift.Bool = false) throws -> Swift.Array<Swift.UInt8>
   public func seek(to position: Swift.Int) throws
   @objc deinit
@@ -492,17 +492,17 @@ extension AES : ElePay.Cipher {
   final public func encrypt(_ bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
   final public func decrypt(_ bytes: Swift.ArraySlice<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
 }
-final public class AEADChaCha20Poly1305 : ElePay.AEAD {
+@_hasMissingDesignatedInitializers final public class AEADChaCha20Poly1305 : ElePay.AEAD {
   public static let kLen: Swift.Int
   public static var ivRange: Swift.Range<Swift.Int>
   public static func encrypt(_ plainText: Swift.Array<Swift.UInt8>, key: Swift.Array<Swift.UInt8>, iv: Swift.Array<Swift.UInt8>, authenticationHeader: Swift.Array<Swift.UInt8>) throws -> (cipherText: Swift.Array<Swift.UInt8>, authenticationTag: Swift.Array<Swift.UInt8>)
   public static func decrypt(_ cipherText: Swift.Array<Swift.UInt8>, key: Swift.Array<Swift.UInt8>, iv: Swift.Array<Swift.UInt8>, authenticationHeader: Swift.Array<Swift.UInt8>, authenticationTag: Swift.Array<Swift.UInt8>) throws -> (plainText: Swift.Array<Swift.UInt8>, success: Swift.Bool)
   @objc deinit
 }
-final public class CBCMAC : ElePay.CMAC {
+@_inheritsConvenienceInitializers final public class CBCMAC : ElePay.CMAC {
   override final public func authenticate(_ bytes: Swift.Array<Swift.UInt8>) throws -> Swift.Array<Swift.UInt8>
-  override public init(key: Swift.Array<Swift.UInt8>) throws
   @objc deinit
+  override public init(key: Swift.Array<Swift.UInt8>) throws
 }
 final public class Scrypt {
   public init(password: Swift.Array<Swift.UInt8>, salt: Swift.Array<Swift.UInt8>, dkLen: Swift.Int, N: Swift.Int, r: Swift.Int, p: Swift.Int) throws
@@ -528,18 +528,18 @@ final public class Poly1305 : ElePay.Authenticator {
   @objc deinit
 }
 public typealias ElePayResultHandler = (ElePay.ElePayResult) -> Swift.Void
-final public class ElePay {
+@_hasMissingDesignatedInitializers final public class ElePay {
   public static let shared: ElePay.ElePay
   public static var isInitialized: Swift.Bool {
     get
-    }
+  }
   public static var initializing: Swift.Bool
   public static var isMakingPayments: Swift.Bool {
     get
-    }
+  }
   public static var appKey: Swift.String {
     get
-    }
+  }
   public static func initApp(key: Swift.String, apiURLString: Swift.String? = nil)
   public static func handlePayment(chargeJSON: Swift.String, cardParams: ElePay.ElePayCardParams? = nil, viewController: UIKit.UIViewController, completion: @escaping ElePay.ElePayResultHandler) -> Swift.Bool
   public static func handlePayment(chargeData: Foundation.Data, cardParams: ElePay.ElePayCardParams? = nil, viewController: UIKit.UIViewController, completion: @escaping ElePay.ElePayResultHandler) -> Swift.Bool
@@ -636,7 +636,7 @@ public protocol BlockMode {
   var options: ElePay.BlockModeOption { get }
   func worker(blockSize: Swift.Int, cipherOperation: @escaping ElePay.CipherOperationOnBlock) throws -> ElePay.CipherModeWorker
 }
-final public class ElePayLocalization {
+@_hasMissingDesignatedInitializers final public class ElePayLocalization {
   public static let shared: ElePay.ElePayLocalization
   @objc deinit
 }
