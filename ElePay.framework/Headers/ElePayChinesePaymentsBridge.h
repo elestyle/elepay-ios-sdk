@@ -22,20 +22,27 @@ enum  ElePayWXErrCode: NSInteger {
 @interface ElePayChinesePaymentsBridge : NSObject
 
 + (BOOL)isChinesePaymentsAvaliable;
+//MARK: - GoAllpay Bridge
 + (void)pay:(NSString *)tn mode:(BOOL)mode scheme:(NSString *)schemeStr viewController:(UIViewController *)viewController
    onResult:(void(^)(NSDictionary * _Nullable resultDic))onResult;
 
 + (void)openURL:(NSURL *)url;
 
-// WeChat Pay Bridge
-
+//MARK: - WeChat Pay Bridge
++ (BOOL)isWechatPayAvaliable;
 + (BOOL)isWXAppInstalled;
-+ (BOOL)isWXAppSupportApi;
++ (BOOL)isWXAppSupportAPI;
 
 + (BOOL)registerWXApp:(NSString *)appid universalLink:(NSString *)universalLink;
 + (BOOL)handleWXOpenURL:(NSURL *)url;
 + (BOOL)handleWXOpenUniversalLink:(NSUserActivity *)userActivity;
 + (void)makeWXPayment:(NSDictionary *)params callback:(void(^)(NSInteger errCode, NSString *errMessage))onResult;
+
+//MARK: - Alipay Bridge
++ (BOOL)isAlipayAvaliable;
++ (void)processOrderWithPaymentResult:(NSURL * _Nonnull)url standbyCallback:(void (^ _Nonnull)(NSDictionary * _Nullable))callback;
++ (void)processAuth_V2ResultWithResultUrl:(NSURL * _Nonnull)url standbyCallback:(void (^ _Nonnull)(NSDictionary * _Nullable))callback;
++ (void)payOrderWithPayload:(NSString * _Nonnull)payload fromScheme:(NSString * _Nonnull)scheme callback:(void (^ _Nonnull)(NSDictionary * _Nullable))callback;
 
 @end
 
