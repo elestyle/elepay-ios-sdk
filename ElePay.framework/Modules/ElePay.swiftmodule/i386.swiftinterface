@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)
+// swift-compiler-version: Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)
 // swift-module-flags: -target i386-apple-ios10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ElePay
 import AdSupport
 import CoreLocation
@@ -362,6 +362,7 @@ public enum ElePayWebPaymentResult {
   case failed(message: Swift.String?)
   case cancelled
   case capture(token: Swift.String?)
+  case confirm(token: Swift.String?)
 }
 public typealias ElePayWebPaymentResultHandler = (ElePay.ElePayWebPaymentResult) -> Swift.Void
 public struct CCM {
@@ -685,16 +686,16 @@ public struct BlockModeOption : Swift.OptionSet {
   public typealias RawValue = Swift.Int
 }
 public enum ElePayResult : Swift.CustomDebugStringConvertible {
-  case succeeded(paymentId: Swift.String)
-  case failed(paymentId: Swift.String?, error: ElePay.ElePayError)
-  case cancelled(paymentId: Swift.String)
+  case succeeded(id: Swift.String)
+  case failed(id: Swift.String?, error: ElePay.ElePayError)
+  case cancelled(id: Swift.String)
   public var debugDescription: Swift.String {
     get
   }
 }
 public enum ElePayError : Swift.Error {
   case unsupportedPaymentMethod(errorCode: Swift.String, paymentMethod: Swift.String)
-  case alreadyMakingPayment(paymentId: Swift.String)
+  case alreadyMakingPayment(id: Swift.String)
   case invalidPayload(errorCode: Swift.String, message: Swift.String)
   case paymentMethodNotInitialized(errorCode: Swift.String, message: Swift.String)
   case systemError(errorCode: Swift.String, message: Swift.String)
