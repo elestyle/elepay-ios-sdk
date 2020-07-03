@@ -25,4 +25,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency "Stripe", '19.1.1'
+
+  s.deprecated_in_favor_of = 'ElepaySDK'
+
 end
