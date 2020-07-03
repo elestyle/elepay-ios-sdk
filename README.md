@@ -1,3 +1,11 @@
+
+**[!] 該当 SDK は ElepaySDK v2.0.0 に変更しました。**  
+`pod 'ElepaySDK'` で新しい SDK を導入してください。
+---
+**[!] ElePay has been deprecated in favor of ElepaySDK**  
+please use `pod 'ElepaySDK'` to import new SDK.  
+---
+
 # elepay-ios-sdk
 **elepay iOS SDK** は elepay を iOS アプリに導入するための SDK です。  
 具体的な導入ガイドは以下の URLでご確認ください。  

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ElePay"
-  s.version      = "1.8.0"
+  s.version      = "1.8.1"
   s.summary      = "Deprecated: This Pod ElePay will be deprecated from v2.0. Please use ElepaySDK instead."
   s.description  = <<-DESC
                     elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app.
