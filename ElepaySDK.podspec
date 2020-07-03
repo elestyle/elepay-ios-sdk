@@ -1,10 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "ElepaySDK"
   s.version      = "2.0.0-alpha.1"
-  s.summary      = "Deprecated: This Pod ElePay will be deprecated from v2.0. Please use ElepaySDK instead."
+  s.summary      = "elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app."
   s.description  = <<-DESC
-                    elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app.
-
                     The elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app.
                     We provide powerful SDK to support multi-payment methods like Credit Card, PayPay, LINE Pay, Paidly, PayPal, Alipay, WeChat Pay, etc.
                     All you need to do is install it once,

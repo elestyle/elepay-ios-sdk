@@ -1,6 +1,8 @@
 # elepay-ios-sdk
 
-**elepay iOS SDK** は elepay を iOS アプリに導入するための SDK です。  
+## 日本語
+
+elepay iOS SDK は elepay を iOS アプリに導入するための SDK です。  
 具体的な導入ガイドは以下の URLでご確認ください。  
 [→ elepay iOS SDK 導入ガイド](https://developer.elepay.io/docs/ios-sdk)
 
@@ -11,11 +13,11 @@ iOS 10.0 以上、Xcode 11.4 以上
 
 ## Swift Demo App
 
-**elepay iOS SDK** のサンプルは[こちら](https://github.com/elestyle/elepay-ios-demo-swift)からダウンロード出来ます。
+elepay iOS SDK のサンプルは[こちら](https://github.com/elestyle/elepay-ios-demo-swift)からダウンロード出来ます。
 
 ## Objective-C Bridge サンプル
 
-Objective-C のプロジェクトで **elepay iOS SDK** を利用する場合は[こちら](https://github.com/elestyle/elepay-ios-demo-swift/blob/master/ELEPayObjectiveC/ElePayObjCBridge.swift)の Swift ファイルをご参考ください。
+Objective-C のプロジェクトで elepay iOS SDK を利用する場合は[こちら](https://github.com/elestyle/elepay-ios-demo-swift/blob/master/ELEPayObjectiveC/ElePayObjCBridge.swift)の Swift ファイルをご参考ください。
 
 ### elepay iOS SDK 履歴
 
@@ -27,7 +29,7 @@ Objective-C のプロジェクトで **elepay iOS SDK** を利用する場合は
 * v2.0 から、XCFramework の導入に伴う、Framework と Module、Class 名が変更しました。  
     ```ElePay.framework → ElepaySDK.xcframework, ElePay → ElepaySDK, ElePay → Elepay```
 
-# elepay-ios-sdk
+## English
 
 **elepay iOS SDK** is made for your iOS Apps to easily import elepay multi-payment platform. For more details, please access the link below.  
 [→ Import Guide for elepay iOS SDK](https://developer.elepay.io/docs/ios-sdk)
