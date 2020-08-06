@@ -365,6 +365,11 @@ public enum ElepayWebPaymentResult {
   case confirm(token: Swift.String?)
 }
 public typealias ElepayWebPaymentResultHandler = (ElepaySDK.ElepayWebPaymentResult) -> Swift.Void
+extension Elepay {
+  public static func checkout(checkoutJSONString: Swift.String, from viewController: UIKit.UIViewController, resultHandler: @escaping ElepaySDK.ElepayResultHandler)
+  public static func checkout(checkoutJSONData: Foundation.Data, from viewController: UIKit.UIViewController, resultHandler: @escaping ElepaySDK.ElepayResultHandler)
+  public static func checkout(checkoutJSON: [Swift.String : Any], from viewController: UIKit.UIViewController, resultHandler: @escaping ElepaySDK.ElepayResultHandler)
+}
 public struct CCM {
   public enum Error : Swift.Error {
     case invalidInitializationVector
@@ -712,10 +717,10 @@ extension ElepayError : Foundation.LocalizedError {
   }
 }
 public enum ElepayLanguageCode : Swift.String {
-  case cn
-  case en
-  case tw
-  case ja
+  case simplifiedChinese
+  case english
+  case traditionalChinese
+  case japanese
   case system
   public init(stringPresentation: Swift.String)
   public typealias RawValue = Swift.String
