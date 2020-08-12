@@ -3,6 +3,12 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 2.1.2
+
+> Bug Fix
+>
+> 1. FIXED: Fixed a transition issue of EasyCheckout on iOS version before 13
+
 ## 2.1.1
 
 > Bug Fix
