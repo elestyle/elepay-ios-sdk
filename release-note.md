@@ -3,6 +3,12 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 2.1.1
+
+> Bug Fix
+>
+> 1. FIXED: **EasyCheckout** methods using JSON String and JSON Data is not working as expected.
+
 ## 2.1.0
 
 > New Features
