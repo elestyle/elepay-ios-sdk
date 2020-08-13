@@ -3,6 +3,12 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 2.1.3
+
+> Bug Fix
+>
+> 1. FIXED: Fix "image not found" runtime error when Elepay_ChinesePayments_Plugin not imported.
+
 ## 2.1.2
 
 > Bug Fix

@@ -6,15 +6,15 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		8R6LWK0RxCF/7LJwZpl/WY1oCbs=
+		R3HCN6HePw3p7bkm+urfMQxcwD8=
 		</data>
 		<key>Base.lproj/ElepayCardUIViewController.nib/objects-11.0+.nib</key>
 		<data>
-		CsbExNN7P+Bh40QCR3vkc99dyUA=
+		U+Z/8N7iwcL9T1OZM285dEuGc+Q=
 		</data>
 		<key>Base.lproj/ElepayCardUIViewController.nib/runtime.nib</key>
 		<data>
-		0g99woMbqmpMUVBUln4R6vTZiMY=
+		FWuxjQ/PeAyiMxpkTEtNY/3++5s=
 		</data>
 		<key>Headers/ElepayBraintreeBridge.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7k3eiYIfYAvBKY+MPuMFP/Cxb1o=
+		quLarKKIA6yk9EAdnZx5+Up0hFY=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -131,33 +131,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8R6LWK0RxCF/7LJwZpl/WY1oCbs=
+			R3HCN6HePw3p7bkm+urfMQxcwD8=
 			</data>
 			<key>hash2</key>
 			<data>
-			nymLenKOB496F0qi9JB68q1VfrYVinnh0NHm4HV47Yc=
+			GBU2enNqFy6cNh/32Y/75E7o7QmzFJ/4ha/FKhRPCcQ=
 			</data>
 		</dict>
 		<key>Base.lproj/ElepayCardUIViewController.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CsbExNN7P+Bh40QCR3vkc99dyUA=
+			U+Z/8N7iwcL9T1OZM285dEuGc+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			nxSRD8xGR114t3I3tkPROFvVtwLLKFqs21aWcEmLgCc=
+			Erq/BUz7jxLyDct2oefZsPMcjWrrk0N+ZQVCVHxVLWw=
 			</data>
 		</dict>
 		<key>Base.lproj/ElepayCardUIViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0g99woMbqmpMUVBUln4R6vTZiMY=
+			FWuxjQ/PeAyiMxpkTEtNY/3++5s=
 			</data>
 			<key>hash2</key>
 			<data>
-			mw00pqtm2algg4gXINACS0jDcdaZCEQT5lPfrmZe/NE=
+			8ZJxoAnwSbtGUlal1DHorzkmJlU0HDpV6OIKUdSY8Rs=
 			</data>
 		</dict>
 		<key>Headers/ElepayBraintreeBridge.h</key>
