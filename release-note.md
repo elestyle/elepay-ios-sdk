@@ -3,6 +3,16 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 2.1.4
+
+> New Features
+>
+> 1. Add support for "au PAY"
+>
+> Bug Fix
+>
+> 1. Improve network stability
+
 ## 2.1.3
 
 > Bug Fix
