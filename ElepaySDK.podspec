@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ElepaySDK"
-  s.version      = "2.1.4"
+  s.version      = "2.2-alpha.1"
   s.summary      = "elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app."
   s.description  = <<-DESC
                     The elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app.
@@ -21,6 +21,4 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = "ElepaySDK.xcframework"
 
   s.requires_arc = true
-
-  s.dependency "Stripe", '19.1.1'
 end

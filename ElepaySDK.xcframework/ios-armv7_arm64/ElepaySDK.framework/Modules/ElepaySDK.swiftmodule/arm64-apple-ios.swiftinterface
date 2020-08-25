@@ -8,7 +8,6 @@ import Darwin
 import Foundation
 import PassKit
 import SafariServices
-import Stripe
 import Swift
 import UIKit
 import WebKit

@@ -3,6 +3,12 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 2.2
+
+> New Features
+>
+> 1. From v2.2, we use Stripe as a weak linked Framework. You can use it either as a dynamic framework or as a static framework.
+
 ## 2.1.4
 
 > New Features
