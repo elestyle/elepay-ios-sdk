@@ -7,15 +7,16 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 
 > New Features
 >
-> 1. Build with Xcode 12 (12A7209)
+> 1. Build with Xcode 12.0.1 (12A7300)
+> 2. Cocoapods 1.10.0.rc.1 required.
 >
 > Bug Fix
 >
 > 1. Fix "Rebuild from Bitcode" error when Stripe is not imported.
 >
-> Known Issues
+> TODO
 >
-> 1. arm64 for iOS Simulator architecture is not supported yet due to 3rd party frameworks.
+> 1. ARM64 for iOS Simulator architecture is not supported yet due to some 3rd party frameworks.
 
 ## 2.2
 
