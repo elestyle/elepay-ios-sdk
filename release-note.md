@@ -3,6 +3,14 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 2.3.3
+
+> New Features
+>
+> 1. Add new error code for 3rd party payment App not installed situation
+> 2. Shrunk the SDK when compressed & thinned to 5MB, allowing for easier App Clips integration.
+>
+
 ## 2.3.2
 
 > Bug Fix
