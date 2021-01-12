@@ -3,6 +3,13 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 2.3.4
+
+> New Features
+>
+> 1. Shrunk the SDK for universal descriptors when uncompressed to 2MB, allowing for easier App Clips integration.
+>
+
 ## 2.3.3
 
 > New Features

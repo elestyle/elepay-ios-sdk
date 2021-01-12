@@ -709,6 +709,9 @@ public enum ElepayError : Swift.Error {
   case systemError(errorCode: Swift.String, message: Swift.String)
   case serverError(errorCode: Swift.String, message: Swift.String)
   case paymentFailure(errorCode: Swift.String, message: Swift.String)
+  public var errorCode: Swift.String? {
+    get
+  }
 }
 extension ElepayError : Foundation.LocalizedError {
   public var errorDescription: Swift.String? {
