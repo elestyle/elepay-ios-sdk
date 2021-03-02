@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "ElepaySDK"
-  s.version      = "2.3.4"
+  s.version      = "3.0-alpha.2"
   s.summary      = "elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app."
   s.description  = <<-DESC
                     The elepay iOS SDK makes it easy to build a stable and secure multi-channel payment experience in your iOS app.
@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.license        = { :type => "Copyright", :text => "Copyright 2020 ELESTYLE, Inc. All Rights Reserved." }
   s.author             = { "ELESTYLE, Inc." => "info@elestyle.jp" }
 
-  s.platform     = :ios, "10.0"
+  s.platform     = :ios, "11.0"
   s.swift_versions = ['5.2', '5.3']
   s.xcconfig = {
     'EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_simulator__NATIVE_ARCH_64_BIT_x86_64__XCODE_1200__BUILD_12A7208' => 'arm64 arm64e armv7 armv7s armv6 armv8',
@@ -22,6 +22,7 @@ Pod::Spec.new do |s|
     'EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_simulator__NATIVE_ARCH_64_BIT_x86_64__XCODE_1200__BUILD_12A7403' => 'arm64 arm64e armv7 armv7s armv6 armv8',
     'EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_simulator__NATIVE_ARCH_64_BIT_x86_64__XCODE_1200__BUILD_12B45b' => 'arm64 arm64e armv7 armv7s armv6 armv8',
     'EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_simulator__NATIVE_ARCH_64_BIT_x86_64__XCODE_1200__BUILD_12C33' => 'arm64 arm64e armv7 armv7s armv6 armv8',
+    'EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_simulator__NATIVE_ARCH_64_BIT_x86_64__XCODE_1200__BUILD_12D4e' => 'arm64 arm64e armv7 armv7s armv6 armv8',
     'EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_simulator__NATIVE_ARCH_64_BIT_x86_64__XCODE_1200' => '$(EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_simulator__NATIVE_ARCH_64_BIT_x86_64__XCODE_1200__BUILD_$(XCODE_PRODUCT_BUILD_VERSION))',
     'EXCLUDED_ARCHS' => '$(inherited) $(EXCLUDED_ARCHS__EFFECTIVE_PLATFORM_SUFFIX_$(EFFECTIVE_PLATFORM_SUFFIX)__NATIVE_ARCH_64_BIT_$(NATIVE_ARCH_64_BIT)__XCODE_$(XCODE_VERSION_MAJOR))'}
 

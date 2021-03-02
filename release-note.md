@@ -3,6 +3,13 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 3.0 - alpha 2
+
+> New Features
+>
+> 1. Update Stripe framework support to v21.x
+>
+
 ## 2.3.4
 
 > New Features
