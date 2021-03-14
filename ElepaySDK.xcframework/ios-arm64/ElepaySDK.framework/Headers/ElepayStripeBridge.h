@@ -27,7 +27,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (nullable Class)safeStripeClass;
 + (nullable Class)safeSTPAPIClientClass;
-+ (nullable Class)safeSTPSourceParamsClass;
 + (nullable Class)safeSTPCardParamsClass;
 + (nullable Class)safeSTPCardValidatorClass;
 
@@ -51,6 +50,7 @@ NS_ASSUME_NONNULL_BEGIN
 + (NSString *)getTokenId:(STPToken *)token;
 + (NSString *)getSourceId:(STPSource *)source;
 + (BOOL)checkSourceStatus:(STPSource *)source;
++ (STPSourceParams *)cardParamsWithCard:(STPCardParams *)cardParams;
 @end
 
 NS_ASSUME_NONNULL_END
