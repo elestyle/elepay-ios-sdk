@@ -10,6 +10,14 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 > 1. Update Stripe framework support to v21.x
 >
 
+## 2.3.6
+
+> Bug fix
+>
+> 1. Add Source Support for PayPay, LINEPay, paidy and Amazon Pay (Sources can be charged directly, or attached to customers for later reuse.
+> 2. Add iOS 10 support back (Do NOT use 2.3.5 if you need iOS 10 support)
+>
+
 ## 2.3.5
 
 > New Features
