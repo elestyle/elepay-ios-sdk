@@ -27,11 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (nullable Class)safeStripeClass;
 + (nullable Class)safeSTPAPIClientClass;
-+ (nullable Class)safeSTPCardParamsClass;
 + (nullable Class)safeSTPCardValidatorClass;
-
-+ (nullable STPAPIClient *)safeSTPAPIClient;
-+ (nullable STPCardParams *)safeSTPCardParams;
 
 + (void)setDefaultPublicKey:(NSString *)key;
 + (nullable STPCardParams *)convertElepayCardToSTPCard:(nullable NSString *)number
