@@ -8,9 +8,9 @@ elepay iOS SDK は elepay を iOS アプリに導入するための SDK です�
 
 ## システム要件
 
-iOS 11.0 以上、Xcode 12 以上
-(1.7.6 以前のバージョンは：iOS 9.0 以上、Xcode 11.3 以上)
-(2.3.5 以前のバージョンは：iOS 10 以上、Xcode 11.4 以上)
+iOS 11.0 以上、Xcode 12 以上  
+(1.7.6 以前のバージョンは：iOS 9.0 以上、Xcode 11.3 以上)  
+(2.3.5 以前のバージョンは：iOS 10 以上、Xcode 11.4 以上)  
 
 ## Swift Demo App
 
@@ -28,7 +28,7 @@ Objective-C のプロジェクトで elepay iOS SDK を利用する場合は[こ
 * v1.6.0 からは Swift 5.1.2 でビルドします。
 * v1.7.1 からは「Build for Distribution」でコンパイルしますので、その後 Swift のバージョンを気にしなくてご利用できます。
 * v2.0 から、XCFramework の導入に伴う、Framework と Module、Class 名が変更しました。
-    ```ElePay.framework → ElepaySDK.xcframework, ElePay → ElepaySDK, ElePay → Elepay```
+    ```ElePay.framework → ElepaySDK.xcframework, ElePay → ElepaySDK, ElePay → Elepay```。
 * v3.0.0 から、iOS 10 のサポートが終了しました。
 
 ## English
@@ -38,9 +38,9 @@ Objective-C のプロジェクトで elepay iOS SDK を利用する場合は[こ
 
 ## System Requirement
 
-iOS 11.0 and above, Xcode 12 and above
-(ver 1.7.6 and below：iOS 9.0 and above, Xcode 11.3 and above)
-(ver 2.3.5 and below: iOS 10 and above, Xcode 11.4 and above)
+iOS 11.0 and above, Xcode 12 and above  
+(ver 1.7.6 and below：iOS 9.0 and above, Xcode 11.3 and above)  
+(ver 2.3.5 and below: iOS 10 and above, Xcode 11.4 and above)  
 
 ## Swift Demo App
 
