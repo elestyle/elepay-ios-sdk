@@ -10,15 +10,6 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-/*! @brief 错误码
- *
- */
-enum  ElepayWXErrCode: NSInteger {
-    ElepayWXSuccess         = 0,    /**< 成功*/
-    ElepayWXErrCodeOther    = -1,   /**< 普通错误类型*/
-    ElepayWXCancel          = -2,   /**< 用户点击取消并返回*/
-};
-
 @interface ElepayChinesePaymentsBridge : NSObject
 
 + (BOOL)isChinesePaymentsAvaliable;
