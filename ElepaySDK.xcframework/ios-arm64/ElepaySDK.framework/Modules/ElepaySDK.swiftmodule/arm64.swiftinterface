@@ -1,18 +1,14 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
-// swift-module-flags: -target arm64-apple-ios11.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ElepaySDK
+// swift-compiler-version: Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
+// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Osize -module-name ElepaySDK
 import AdSupport
 import CoreLocation
 @_exported import ElepaySDK
 import Foundation
-import PassKit
 import SafariServices
 import Swift
 import UIKit
 import WebKit
-extension ElepayPaymentAppHelper {
-  final public func deviceSupportsApplePay() -> Swift.Bool
-}
 public struct ElepayCardParams {
   public var number: Swift.String?
   public var expMonth: Swift.UInt
@@ -22,6 +18,9 @@ public struct ElepayCardParams {
   public var address: Swift.String?
   public var currency: Swift.String?
   public func last4() -> Swift.String?
+}
+extension ElepayPaymentAppHelper {
+  final public func deviceSupportsApplePay() -> Swift.Bool
 }
 @_hasMissingDesignatedInitializers final public class ElepayPaymentAppHelper {
   @objc deinit
@@ -67,6 +66,10 @@ public typealias ElepayResultHandler = (ElepaySDK.ElepayResult) -> Swift.Void
   public static func handleOpenURL(_ url: Foundation.URL, options: [UIKit.UIApplication.OpenURLOptionsKey : Any] = [:]) -> Swift.Bool
   public static func handleUniversalLink(_ application: UIKit.UIApplication, continue userActivity: Foundation.NSUserActivity, restorationHandler: @escaping ([Any]?) -> Swift.Void) -> Swift.Bool
   @objc deinit
+}
+extension ElepayPaymentAppHelper {
+  final public func isRPayInstalled() -> Swift.Bool
+  final public func downloadRPay()
 }
 extension ElepayPaymentAppHelper {
   final public func isAuPayInstalled() -> Swift.Bool
