@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		639MvcXF4Xy8asDdzQSa3LzP2Aw=
+		9qQUhHXafddQu10LHAZQonz3FEQ=
 		</data>
 		<key>Base.lproj/ElepayCardUIViewController.nib</key>
 		<data>
-		F9UHhLXoaNXM1y2RAfkP648NxE4=
+		y4REiZNR9qjpbLtPoWGFRcgvH2I=
 		</data>
 		<key>Headers/ElepayBraintreeBridge.h</key>
 		<data>
@@ -38,31 +38,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ASDvGK+dU5GIlnoTSAcurNltLOk=
+		ocyydPXm/ne5rCyXF/FRyPP8YUs=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		U5jYhhQJn1Objx5Pg/xfyBDvcns=
+		0+qNiZaEEUP4HaiNppnSC3bhGrA=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Mic8IGGdA8Hk2idORsqcEIuSlgM=
+		OfR6eXxdDlADxtmXu9FsF8iGFgU=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xl1IIHIJm9SFW0ISKx95PTYWkYs=
+		dY/ews2jMHTbbpS/qyWSlw82KpY=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		U5jYhhQJn1Objx5Pg/xfyBDvcns=
+		0+qNiZaEEUP4HaiNppnSC3bhGrA=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		Mic8IGGdA8Hk2idORsqcEIuSlgM=
+		OfR6eXxdDlADxtmXu9FsF8iGFgU=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		xl1IIHIJm9SFW0ISKx95PTYWkYs=
+		dY/ews2jMHTbbpS/qyWSlw82KpY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KTILVJFc6BiLgvb0nJNjlCwtlrs=
+			KfBL0QZYkSpRjdIINBc0/pDqAOo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -90,7 +90,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			C1lo62ullx1xTEEPoucm8B2cNGg=
+			WYoneiRd4Ul9GoS4XeBzTOM745I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -99,7 +99,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HsczU8+HN2DEiYGAEyBoTptAbfQ=
+			x4CRpuzTV3dRIAFm54PIUlNrxes=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q7ZXQNPlTTePKM+Xlm0KUakTTdQYzWW0aqzdPdimpGU=
+			nWsLpwuf/mS894hEZJzb/XKLi2q1hY/2LNUlisbgeX4=
 			</data>
 		</dict>
 		<key>Base.lproj/ElepayCardUIViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1DofUc0P2kEcHIB0CsZzgjFpS585ycu2r20aL/37Khc=
+			SYcuFcQZZEr8zpCTDyMFfId0OmpDOkL/JutrxgObm4w=
 			</data>
 		</dict>
 		<key>Headers/ElepayBraintreeBridge.h</key>
@@ -167,42 +167,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RNNOeSqvsO763RXseyF8ryq+/DNeY9M6O1/DXRNxtU8=
+			NxZxrWltJMkPB7Zg4+hwEzmdVzGS9KBezeFnuy7qeoQ=
 			</data>
 		</dict>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iK2mH/Gealgfhy38zabfARGGYJ6Hc36+O5ZYT/KLUj0=
+			dAaSsjulcobfKUalg2Xi2YTH+qMoH56i8nDs/SmTXzQ=
 			</data>
 		</dict>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hj3Or3/4OYW4W7acC/vPjcczQs26EJEadz9OTnzBRAQ=
+			lLKoCrDIqphbQLao9kJXUQ5mZL78mrXkbP9cZQ41kbw=
 			</data>
 		</dict>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RNNOeSqvsO763RXseyF8ryq+/DNeY9M6O1/DXRNxtU8=
+			NxZxrWltJMkPB7Zg4+hwEzmdVzGS9KBezeFnuy7qeoQ=
 			</data>
 		</dict>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iK2mH/Gealgfhy38zabfARGGYJ6Hc36+O5ZYT/KLUj0=
+			dAaSsjulcobfKUalg2Xi2YTH+qMoH56i8nDs/SmTXzQ=
 			</data>
 		</dict>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hj3Or3/4OYW4W7acC/vPjcczQs26EJEadz9OTnzBRAQ=
+			lLKoCrDIqphbQLao9kJXUQ5mZL78mrXkbP9cZQ41kbw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -225,7 +225,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			138eFwjD++TBKAKb8Kvj8adidrFZim4HIWaI6tBjG+8=
+			dF1yCyUy7LgK9/JlH4AUJRKMklwTcrstKY2GQkZS8KU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -234,7 +234,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p2mg/7//jmi+AY4Sh69MRZLHCxyAlqltGVnkh1BFB3Y=
+			TWWc9/HlOXC/cSz3u5gmf3wnMEbBEoG65A9YKxHgxBY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -243,7 +243,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yyYH4Ep0HlRL+9dW+uvrS+c2iG7v3HlDkuktH+O7tbc=
+			5FoD6t+Yq3FvrnauJ4pVjLi17TC0VmjgVT84LcUNsHY=
 			</data>
 			<key>optional</key>
 			<true/>
