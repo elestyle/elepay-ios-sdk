@@ -3,12 +3,13 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
-## 3.1.0-beta.1
+## 3.1.0
 
 > New Features
 >
 > 1. Update Stripe framework for Xcode 12.5 & Xcode 13 beta support
 > 2. Add support RPay (Rakuten Pay)
+> 3. Minor improvements
 >
 
 ## 3.0
