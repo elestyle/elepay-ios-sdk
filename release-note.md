@@ -3,6 +3,14 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 3.1.1
+
+> New Features
+>
+> 1. SPM (Swift Package Manager) supported.  
+> NOTE: This version will not be released to Cocoapods, use v3.1.0 instead.
+>
+
 ## 3.1.0
 
 > New Features

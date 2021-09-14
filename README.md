@@ -29,7 +29,8 @@ Objective-C のプロジェクトで elepay iOS SDK を利用する場合は[こ
 * v1.7.1 からは「Build for Distribution」でコンパイルしますので、その後 Swift のバージョンを気にしなくてご利用できます。
 * v2.0 から、XCFramework の導入に伴う、Framework と Module、Class 名が変更しました。
     ```ElePay.framework → ElepaySDK.xcframework, ElePay → ElepaySDK, ElePay → Elepay```。
-* v3.0.0 から、iOS 10 のサポートが終了しました。
+* v3.0.0 から、iOS 10 のサポートが終了しました。  
+* v3.1.1 は SPM (Swift Package Manager) にサポートしました。ご注意：このバージョンは Cocoapods にリリースしていませんので、Cocoapods ご利用の場合は v3.1.0 を利用してください。
 
 ## English
 
@@ -60,4 +61,5 @@ If you are using **elepay iOS SDK** in Objective-C project, please check [here](
 * From v2.0, the SDK is distributed in XCFramework format.
   Also the Framework name,  module name and class name has been changed.
     ```ElePay.framework → ElepaySDK.xcframework, ElePay → ElepaySDK, ElePay → Elepay```
-* From v3.0.0, iOS 10 is no longer supported.
+* From v3.0.0, iOS 10 is no longer supported.  
+* v3.1.1 add SPM (Swift Package Manager) support. NOTE: This version will not be released to Cocoapods, use v3.1.0 instead.
