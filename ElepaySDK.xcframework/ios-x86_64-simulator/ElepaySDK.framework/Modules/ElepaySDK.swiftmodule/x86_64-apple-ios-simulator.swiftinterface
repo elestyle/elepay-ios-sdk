@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)
+// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
 // swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Osize -module-name ElepaySDK
 import AdSupport
 import CoreLocation
@@ -9,6 +9,7 @@ import SafariServices
 import Swift
 import UIKit
 import WebKit
+import _Concurrency
 public struct ElepayCardParams {
   public var number: Swift.String?
   public var expMonth: Swift.UInt
@@ -19,33 +20,33 @@ public struct ElepayCardParams {
   public var currency: Swift.String?
   public func last4() -> Swift.String?
 }
-extension ElepayPaymentAppHelper {
+extension ElepaySDK.ElepayPaymentAppHelper {
   final public func deviceSupportsApplePay() -> Swift.Bool
 }
 @_hasMissingDesignatedInitializers final public class ElepayPaymentAppHelper {
   @objc deinit
 }
-extension ElepayPaymentAppHelper {
+extension ElepaySDK.ElepayPaymentAppHelper {
   final public func isLinePayInstalled() -> Swift.Bool
 }
-extension ElepayPaymentAppHelper {
+extension ElepaySDK.ElepayPaymentAppHelper {
   final public func isPayPayInstalled() -> Swift.Bool
 }
-extension Elepay {
+extension ElepaySDK.Elepay {
   public static func checkout(checkoutJSONString: Swift.String, from viewController: UIKit.UIViewController, resultHandler: @escaping ElepaySDK.ElepayResultHandler)
   public static func checkout(checkoutJSONData: Foundation.Data, from viewController: UIKit.UIViewController, resultHandler: @escaping ElepaySDK.ElepayResultHandler)
   public static func checkout(checkoutJSON: [Swift.String : Any], from viewController: UIKit.UIViewController, resultHandler: @escaping ElepaySDK.ElepayResultHandler)
 }
-extension Elepay {
+extension ElepaySDK.Elepay {
   public static func handleSource(sourceJSON: Swift.String, cardParams: ElepaySDK.ElepayCardParams? = nil, viewController: UIKit.UIViewController, completion: @escaping ElepaySDK.ElepayResultHandler) -> Swift.Bool
   public static func handleSource(sourceData: Foundation.Data, cardParams: ElepaySDK.ElepayCardParams? = nil, viewController: UIKit.UIViewController, completion: @escaping ElepaySDK.ElepayResultHandler) -> Swift.Bool
   public static func handleSource(source: [Swift.String : Any], cardParams: ElepaySDK.ElepayCardParams? = nil, viewController: UIKit.UIViewController, completion: @escaping ElepaySDK.ElepayResultHandler) -> Swift.Bool
 }
 @available(iOS 13, *)
-extension Elepay {
+extension ElepaySDK.Elepay {
   public static var userInterfaceStyle: UIKit.UIUserInterfaceStyle
 }
-public typealias ElepayResultHandler = (ElepaySDK.ElepayResult) -> Swift.Void
+public typealias ElepayResultHandler = (_ result: ElepaySDK.ElepayResult) -> Swift.Void
 @_hasMissingDesignatedInitializers final public class Elepay {
   public static let shared: ElepaySDK.Elepay
   final public let paymentAppHelper: ElepaySDK.ElepayPaymentAppHelper
@@ -67,23 +68,23 @@ public typealias ElepayResultHandler = (ElepaySDK.ElepayResult) -> Swift.Void
   public static func handleUniversalLink(_ application: UIKit.UIApplication, continue userActivity: Foundation.NSUserActivity, restorationHandler: @escaping ([Any]?) -> Swift.Void) -> Swift.Bool
   @objc deinit
 }
-extension ElepayPaymentAppHelper {
+extension ElepaySDK.ElepayPaymentAppHelper {
   final public func isRPayInstalled() -> Swift.Bool
   final public func downloadRPay()
 }
-extension ElepayPaymentAppHelper {
+extension ElepaySDK.ElepayPaymentAppHelper {
   final public func isAuPayInstalled() -> Swift.Bool
 }
 @_hasMissingDesignatedInitializers final public class ElepayLocalization {
   public static let shared: ElepaySDK.ElepayLocalization
   @objc deinit
 }
-extension ElepayLocalization {
+extension ElepaySDK.ElepayLocalization {
   final public func switchLanguage(code: ElepaySDK.ElepayLanguageCode)
   final public func isLocalized(for languageCode: ElepaySDK.ElepayLanguageCode) -> Swift.Bool
   final public func isLocalized(for languageCode: ElepaySDK.ElepayLanguageCode, keys: [Swift.String]) -> Swift.Bool
 }
-extension ElepayPaymentAppHelper {
+extension ElepaySDK.ElepayPaymentAppHelper {
   final public func isWeChatPayInstalled() -> Swift.Bool
 }
 public enum ElepayResult : Swift.CustomDebugStringConvertible {
@@ -106,7 +107,7 @@ public enum ElepayError : Swift.Error {
     get
   }
 }
-extension ElepayError : Foundation.LocalizedError {
+extension ElepaySDK.ElepayError : Foundation.LocalizedError {
   public var errorDescription: Swift.String? {
     get
   }
