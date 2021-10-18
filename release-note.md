@@ -3,18 +3,19 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
-## 3.2.0-beta.1
+## 3.2.0-beta.2
 
 > New Features
 >
 > 1. Add Apple Pay source support. You can add Apple Pay as a payment method to your customer for further charge.
+> 2. Add UnionPay directly connect support.
 >
 
 ## 3.1.1
 
 > New Features
 >
-> 1. SPM (Swift Package Manager) supported.  
+> 1. SPM (Swift Package Manager) supported.
 > NOTE: This version will not be released to Cocoapods, use v3.1.0 instead.
 >
 

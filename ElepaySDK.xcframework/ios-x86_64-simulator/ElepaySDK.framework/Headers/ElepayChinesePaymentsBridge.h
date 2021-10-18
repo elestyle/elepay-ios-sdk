@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface ElepayChinesePaymentsBridge : NSObject
 
-+ (BOOL)isChinesePaymentsAvaliable;
++ (BOOL)isAllpaySDKAvaliable;
 //MARK: - GoAllpay Bridge
 + (void)pay:(NSString *)tn mode:(BOOL)mode
      scheme:(NSString *)schemeStr viewController:(UIViewController *)viewController
@@ -39,6 +39,17 @@ NS_ASSUME_NONNULL_BEGIN
 + (void)payOrderWithPayload:(NSString *)payload
                  fromScheme:(NSString *)scheme
                    callback:(void (^)(NSDictionary * _Nullable))callback;
+
+//MARK: - UnionPay Bridge
++ (BOOL)startUPPayment:(NSString*)tn
+            fromScheme:(NSString *)scheme
+                  mode:(NSString*)mode
+        viewController:(UIViewController*)viewController;
++ (BOOL)isUPAppInstalled;
++ (BOOL)isUnionPaySDKAvaliable;
++ (void)handleUPOpenURL:(NSURL*)url
+          completeBlock:(void(^)(NSString *code))completionBlock;
+
 @end
 
 NS_ASSUME_NONNULL_END

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		6wMugXfzAYwSKFd+yUAFZVSqPds=
+		Z16mPhP3XYavCXm9RmKAhthqi1s=
 		</data>
 		<key>Base.lproj/ElepayCardUIViewController.nib</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/ElepayChinesePaymentsBridge.h</key>
 		<data>
-		REoDa4cFXw28BSalTdaHWfW6rB4=
+		Nm1WcwYj9FfMKQDxoBewnJScXOc=
 		</data>
 		<key>Headers/ElepayRPayBridge.h</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ccFJfy2B619IsNbsTBS0VOV6SwA=
+		2diM759le9MKRBhijwFAIBfb6tQ=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ensI6UmB/Ze4N8nicZNlXd5uOro=
+		128Zi03D4BSMUh9+LuMbbiv2O/o=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		ensI6UmB/Ze4N8nicZNlXd5uOro=
+		128Zi03D4BSMUh9+LuMbbiv2O/o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -111,7 +111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZmyvNE2Z4PaT66GClasCz/tdP8frYXcArsUh9dvp13A=
+			8/mqhetziZXoxjP8LfEdZk0Jty1LHcgtXDr8l3kPyTg=
 			</data>
 		</dict>
 		<key>Base.lproj/ElepayCardUIViewController.nib</key>
@@ -132,7 +132,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xYcsn4wWpzDiYRczyFDzTgKH4P4yWDGcdyxduFNb+Uw=
+			roqM/WPDdgPysN2Ns3AP72w75kYOD/Uvwu+vkz2ugjk=
 			</data>
 		</dict>
 		<key>Headers/ElepayRPayBridge.h</key>
@@ -181,7 +181,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x5pKdD1K8joh6jig5jleQ/gJ5Qhy+vTEgf5OqOjYyt4=
+			VIar8SzI0uznEx5CSyxAuTh+ty7H7CxCOiHUFcLpGRg=
 			</data>
 		</dict>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64.swiftdoc</key>
@@ -202,7 +202,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x5pKdD1K8joh6jig5jleQ/gJ5Qhy+vTEgf5OqOjYyt4=
+			VIar8SzI0uznEx5CSyxAuTh+ty7H7CxCOiHUFcLpGRg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
