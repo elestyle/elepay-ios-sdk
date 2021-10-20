@@ -20,6 +20,7 @@ NS_ASSUME_NONNULL_BEGIN
 @class ElepayCardParams;
 @class STPSource;
 @class STPToken;
+@class PKPayment;
 @class UIViewController;
 
 @interface ElepayStripeBridge : NSObject
@@ -28,7 +29,6 @@ NS_ASSUME_NONNULL_BEGIN
 + (nullable Class)safeStripeClass;
 + (nullable Class)safeSTPAPIClientClass;
 + (nullable Class)safeSTPCardValidatorClass;
-+ (nullable STPAPIClient *)safeSharedAPIClient;
 
 + (void)setDefaultPublicKey:(NSString *)key;
 + (nullable STPCardParams *)convertElepayCardToSTPCard:(nullable NSString *)number
@@ -38,16 +38,17 @@ NS_ASSUME_NONNULL_BEGIN
                                                   name:(nullable NSString *)name
                                               currency:(nullable NSString *)currency;
 
-+ (void)handleSource:(STPSource *)source
-                  vc:(UIViewController *)vc
-            callback:(void(^)(NSString * sourceId,
-                              NSString * _Nullable clientSecret,
-                              NSError * _Nullable error))callback;
 
-+ (NSString *)getTokenId:(STPToken *)token;
-+ (NSString *)getSourceId:(STPSource *)source;
-+ (BOOL)checkSourceStatus:(STPSource *)source;
-+ (STPSourceParams *)cardParamsWithCard:(STPCardParams *)cardParams;
++ (void)createTokenWithPayment:(PKPayment *)payment
+           callback:(void (^)(NSString * _Nullable, NSError * _Nullable))callback;
++ (void)createSourceWithPayment:(PKPayment *)payment
+            callback:(void (^)(NSString * _Nullable, NSError * _Nullable))callback;
+
++ (void)createTokenWithCard:(STPCardParams *)card
+                   callback:(void (^)(NSString * _Nullable, NSError * _Nullable))callback;
++ (void)createSourceWithCard:(STPCardParams *)card
+                    callback:(void (^)(NSString * _Nullable, NSError * _Nullable))callback;
+
 @end
 
 NS_ASSUME_NONNULL_END
