@@ -3,7 +3,7 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
-## 3.2.0-beta.4
+## 3.2.0-beta.6
 
 > New Features
 >
