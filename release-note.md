@@ -3,6 +3,13 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 3.2.0-beta.7
+
+> New Features
+>
+> 1. Add Alipay+ support (Charge only, Source & EasyCheckout still on work)
+>
+
 ## 3.2.0-beta.6
 
 > New Features
