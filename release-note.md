@@ -3,20 +3,14 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
-## 3.2.0-beta.7
-
-> New Features
->
-> 1. Add Alipay+ support (Charge only, Source & EasyCheckout still on work)
->
-
-## 3.2.0-beta.6
+## 3.2.0
 
 > New Features
 >
 > 1. Add Apple Pay source support. You can add Apple Pay as a payment method to your customer for further charge.
 > 2. Add UnionPay directly connect support.
 > 3. Add a workaround for some new version (21.9.0) of Stripe's Swift SDK, due to it's Objective-C support is frequently changing recently.
+> 4. Add Alipay+ support (Charge only, Source & EasyCheckout still on work)
 >
 
 ## 3.1.1
