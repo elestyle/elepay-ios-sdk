@@ -3,6 +3,15 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 3.2.1 - beta.1
+
+> New features
+>
+> 1. Move payment method icons to CDN server for easier payment brand update and reduce the size of SDK itself.  
+> 2. Payment method icons' local cache supported.  
+> 3. Add Alipay+ to EasyCheckout feature.  
+>  
+
 ## 3.2.0
 
 > New Features
