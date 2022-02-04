@@ -3,6 +3,13 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 3.3.0-beta.1
+
+> New features
+>
+> 1. Add Credit Card (Stripe) 3DS2 support.  
+> 2. Updated SDK Documentation (ElepaySDK.doccarchive). You can import it into Xcode 13 or later.  
+
 ## 3.2.2
 
 > New features
