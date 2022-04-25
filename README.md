@@ -2,13 +2,13 @@
 
 ## 日本語
 
-elepay iOS SDK は elepay を iOS アプリに導入するための SDK です。
+elepay iOS SDK は elepay を iOS アプリに導入するための SDK です。  
 具体的な導入ガイドは以下の URLでご確認ください。
 [→ elepay iOS SDK 導入ガイド](https://developer.elepay.io/docs/ios-sdk)
 
 ## システム要件
 
-iOS 11.0 以上、Xcode 12 以上  
+iOS 11.0 以上、Xcode 12.5.1 以上  
 (1.7.6 以前のバージョンは：iOS 9.0 以上、Xcode 11.3 以上)  
 (2.3.5 以前のバージョンは：iOS 10 以上、Xcode 11.4 以上)  
 
@@ -39,7 +39,7 @@ Objective-C のプロジェクトで elepay iOS SDK を利用する場合は[こ
 
 ## System Requirement
 
-iOS 11.0 and above, Xcode 12 and above  
+iOS 11.0 and above, Xcode 12.5.1 and above  
 (ver 1.7.6 and below：iOS 9.0 and above, Xcode 11.3 and above)  
 (ver 2.3.5 and below: iOS 10 and above, Xcode 11.4 and above)  
 

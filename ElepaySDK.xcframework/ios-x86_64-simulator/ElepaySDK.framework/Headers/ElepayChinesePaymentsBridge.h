@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface ElepayChinesePaymentsBridge : NSObject
 
-+ (BOOL)isAllpaySDKAvaliable;
++ (BOOL)isAllpaySDKAvailable;
 //MARK: - GoAllpay Bridge
 + (void)pay:(NSString *)tn mode:(BOOL)mode
      scheme:(NSString *)schemeStr viewController:(UIViewController *)viewController
@@ -21,7 +21,7 @@ NS_ASSUME_NONNULL_BEGIN
 + (void)openURL:(NSURL *)url;
 
 //MARK: - WeChat Pay Bridge
-+ (BOOL)isWechatPayAvaliable;
++ (BOOL)isWechatPayAvailable;
 + (BOOL)isWXAppInstalled;
 + (BOOL)isWXAppSupportAPI;
 
@@ -31,7 +31,7 @@ NS_ASSUME_NONNULL_BEGIN
 + (void)makeWXPayment:(NSDictionary *)params callback:(void(^)(NSInteger errCode, NSString *errMessage))onResult;
 
 //MARK: - Alipay Bridge
-+ (BOOL)isAlipayAvaliable;
++ (BOOL)isAlipayAvailable;
 + (void)processOrderWithPaymentResult:(NSURL *)url
                       standbyCallback:(void (^)(NSDictionary * _Nullable))callback;
 + (void)processAuth_V2ResultWithResultUrl:(NSURL *)url
@@ -46,7 +46,7 @@ NS_ASSUME_NONNULL_BEGIN
                   mode:(NSString*)mode
         viewController:(UIViewController*)viewController;
 + (BOOL)isUPAppInstalled;
-+ (BOOL)isUnionPaySDKAvaliable;
++ (BOOL)isUnionPaySDKAvailable;
 + (void)handleUPOpenURL:(NSURL*)url
           completeBlock:(void(^)(NSString *code))completionBlock;
 

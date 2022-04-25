@@ -1,7 +1,20 @@
 # ElepaySDK for iOS Release Note
 
-ElepaySDK use [semantic versioning](http://semver.org/).
+ElepaySDK use [semantic versioning](http://semver.org/).  
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
+
+## 3.4.0  
+
+> New features
+>
+> 1. Add Credit Card (Rakuten Bank) support, also supports 3DS2.  
+> 2. Add GMO Payment Gateway Credit Card supoort.  
+> 3. Add Sony Payment Services Credit Card support.  
+> 4. **App Clips**: The `Elepay-StripeApplePay-Plugin` provides a lightweight plugin for offering Apple Pay in an App Clip.  
+> *You can now remove Stripe SDK when making App Clips to reduce the binary size.  
+> The `Elepay-StripeApplePay-Plugin` already has StripeApplePay SDK embedded, so you need to import only `ElepaySDK` and `Elepay-StripeApplePay-Plugin` when buiding your App Clip.  
+> For more details about this plugin, please reference the link here.*  
+>
 
 ## 3.3.0
 

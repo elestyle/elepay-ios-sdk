@@ -15,7 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong, nullable) UIViewController *viewController;
 
 //+ (instancetype)shared;
-+ (BOOL)isBraintreeAvaliable;
++ (BOOL)isBraintreeAvailable;
 + (void)setReturnURLScheme:(NSString *)scheme;
 + (BOOL)handleOpenURL:(NSURL *)url options:(NSDictionary *)options;
 

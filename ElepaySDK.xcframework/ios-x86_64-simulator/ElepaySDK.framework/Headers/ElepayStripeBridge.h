@@ -23,11 +23,10 @@ NS_ASSUME_NONNULL_BEGIN
 @class PKPayment;
 @class UIViewController;
 @protocol STPAuthenticationContext;
-@protocol STPApplePayContextDelegate;
 
 typedef NS_ENUM(NSInteger, StripeBridgePaymentStatus) {
     StripeBridgePaymentStatusSucceeded = 0,
-    StripeBridgePaymentStatusCanceled = 1,
+    StripeBridgePaymentStatusCancelled = 1,
     StripeBridgePaymentStatusFailed = 2,
 };
 
@@ -36,6 +35,13 @@ typedef NS_ENUM(NSInteger, StripeBridgeCardValidationState) {
     StripeBridgeCardValidationStateInvalid = 1,
     StripeBridgeCardValidationStateIncomplete = 2,
 };
+
+@protocol ApplePayContextDelegateBridge <NSObject>
+
+- (void)applePayContext:(StripeBridgePaymentStatus)status error:(NSError *)error;
+
+@end
+
 
 @interface ElepayCardBridge : NSObject
 
@@ -49,7 +55,10 @@ typedef NS_ENUM(NSInteger, StripeBridgeCardValidationState) {
 
 @end
 
+
 @interface ElepayStripeBridge : NSObject
+
+@property(nonatomic, weak) id<ApplePayContextDelegateBridge> delegate;
 
 + (nullable Class)safeStripeClass;
 + (nullable Class)safeSTPAPIClientClass;
@@ -76,9 +85,23 @@ typedef NS_ENUM(NSInteger, StripeBridgeCardValidationState) {
                       isCharge: (BOOL)isCharge
                       callback:(void (^)(StripeBridgePaymentStatus, NSError * _Nullable))callback;
 
-+ (nullable STPApplePayContext *)createApplePayContextWithPaymentRequest:(PKPaymentRequest *)request
-                                                                delegate:(id <STPApplePayContextDelegate>)delegate;
+- (nullable STPApplePayContext *)createApplePayContextWithPaymentRequest:(PKPaymentRequest *)request
+                                                            clientSecret: (NSString *)secret
+                                                                delegate:(id <ApplePayContextDelegateBridge>)delegate;
 + (void)presentApplePayContext:(STPApplePayContext *)context;
++ (BOOL)handleURLCallback:(NSURL *)url;
+
+// MARK: - StripeApplePayPlugin
++ (nullable Class)safeApplePayPluginClass;
++ (void)setApplePayPluginDefaultPublicKey:(NSString *)key;
++ (BOOL)pluginDeviceSupportsApplePay;
+- (BOOL)makeApplePayWithPlugin:(PKPaymentRequest *)request
+                  clientSecret: (NSString *)secret
+                      delegate:(id <ApplePayContextDelegateBridge>)delegate;
++ (PKPaymentRequest *)pluginPaymentRequestWithMerchantIdentifier:(NSString *)merchantIdentifier
+                                                         country:(NSString *)countryCode
+                                                        currency:(NSString *)currencyCode;
+
 @end
 
 NS_ASSUME_NONNULL_END
