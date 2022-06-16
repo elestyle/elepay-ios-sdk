@@ -3,6 +3,12 @@
 ElepaySDK use [semantic versioning](http://semver.org/).  
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 3.4.1  
+
+> Bug Fixes
+>
+> 1. Fixed: Apple Pay may not display the correct amount on some iOS versions.  
+
 ## 3.4.0  
 
 > New features
