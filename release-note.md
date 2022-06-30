@@ -3,6 +3,12 @@
 ElepaySDK use [semantic versioning](http://semver.org/).  
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 3.5.0  
+
+> New features
+>  
+> 1. Add Alipay+ source support. (Sources can be charged directly, or attached to customers for later recharge)  
+  
 ## 3.4.1  
 
 > Bug Fixes
@@ -86,7 +92,7 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 
 > New Features
 >
-> 1. Add Source Support for PayPay, LINEPay, paidy and Amazon Pay (Sources can be charged directly, or attached to customers for later reuse.
+> 1. Add Source Support for PayPay, LINEPay, paidy and Amazon Pay (Sources can be charged directly, or attached to customers for later reuse).
 >
 
 ## 2.3.4
