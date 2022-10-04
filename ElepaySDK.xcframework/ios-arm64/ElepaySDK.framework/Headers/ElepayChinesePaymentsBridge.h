@@ -3,7 +3,7 @@
 //  Elepay
 //
 //  Created by xuzhe on 2019/10/22.
-//  Copyright © 2019 ELESTYLE, Inc. All rights reserved.
+//  Copyright © ELESTYLE, Inc. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

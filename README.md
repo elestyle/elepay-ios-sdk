@@ -8,9 +8,10 @@ elepay iOS SDK は elepay を iOS アプリに導入するための SDK です�
 
 ## システム要件
 
-iOS 11.0 以上、Xcode 12.5.1 以上  
+iOS 12.0 以上、Xcode 14 以上  
 (1.7.6 以前のバージョンは：iOS 9.0 以上、Xcode 11.3 以上)  
 (2.3.5 以前のバージョンは：iOS 10 以上、Xcode 11.4 以上)  
+(3.5.0 以前のバージョンは：iOS 11 以上、Xcode 13 以上)  
 
 ## Swift Demo App
 
@@ -31,6 +32,7 @@ Objective-C のプロジェクトで elepay iOS SDK を利用する場合は[こ
     ```ElePay.framework → ElepaySDK.xcframework, ElePay → ElepaySDK, ElePay → Elepay```。
 * v3.0.0 から、iOS 10 のサポートが終了しました。  
 * v3.1.1 は SPM (Swift Package Manager) にサポートしました。ご注意：このバージョンは Cocoapods にリリースしていませんので、Cocoapods ご利用の場合は v3.1.0 を利用してください。
+* v4.0.0 は Xcode 14 (Swift 5.7) でビルドしました。このバージョンから iOS 11 のサポートが終了しました。Bitcode のサポートが終了しました。
 
 ## English
 
@@ -39,9 +41,10 @@ Objective-C のプロジェクトで elepay iOS SDK を利用する場合は[こ
 
 ## System Requirement
 
-iOS 11.0 and above, Xcode 12.5.1 and above  
+iOS 12.0 and above, Xcode 14 and above  
 (ver 1.7.6 and below：iOS 9.0 and above, Xcode 11.3 and above)  
 (ver 2.3.5 and below: iOS 10 and above, Xcode 11.4 and above)  
+(ver 3.5.0 and below: iOS 11 and above, Xcode 13 and above)  
 
 ## Swift Demo App
 
@@ -63,3 +66,4 @@ If you are using **elepay iOS SDK** in Objective-C project, please check [here](
     ```ElePay.framework → ElepaySDK.xcframework, ElePay → ElepaySDK, ElePay → Elepay```
 * From v3.0.0, iOS 10 is no longer supported.  
 * v3.1.1 add SPM (Swift Package Manager) support. NOTE: This version will not be released to Cocoapods, use v3.1.0 instead.
+* v4.0.0 is build by Xcode 14 (Swift 5.7), from this version, iOS 11 is no longer supported. Also Bitcode is no longer supported.

@@ -3,9 +3,19 @@
 ElepaySDK use [semantic versioning](http://semver.org/).  
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 4.0.0
+
+> New Features
+>
+> 1. The elepay iOS SDK requires Xcode 14 or later and is compatible with apps targeting iOS 12 or above.  
+> 2. Add Card Scan support (iOS 13 or above required).  
+> 3. Compiled using Xcode 14 (Swift 5.7)  
+> 4. Bitcode will no longer be supported from this version.  
+> 5. Removed Braintree support. We will add PayPal directly support in the future.  
+
 ## 3.5.0  
 
-> New features
+> New Features
 >  
 > 1. Add Alipay+ source support. (Sources can be charged directly, or attached to customers for later recharge)  
   
@@ -17,7 +27,7 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 
 ## 3.4.0  
 
-> New features
+> New Features
 >
 > 1. Add Credit Card (Rakuten Bank) support, also supports 3DS2.  
 > 2. Add GMO Payment Gateway Credit Card supoort.  
@@ -30,14 +40,14 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 
 ## 3.3.0
 
-> New features
+> New Features
 >
 > 1. Add Credit Card (Stripe) 3DS2 support.
 > 2. Updated SDK Documentation (ElepaySDK.doccarchive). You can import it into Xcode 13 or later.
 
 ## 3.2.2
 
-> New features
+> New Features
 >
 > 1. Add a new Web-Based Process for Alipay+ to handle some payment App may not redirect back to your App automatically.
 > In this case, users need to go back to your App manually (Yes, we know the experiance is bad, we are working closely with Alipay+ to improve this).
@@ -45,7 +55,7 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 
 ## 3.2.1
 
-> New features
+> New Features
 >
 > 1. Move payment method icons to CDN server for easier payment brand update and reduce the size of SDK itself.
 > 2. Payment method icons' local cache supported.

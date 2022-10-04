@@ -12,7 +12,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 @class StripeAPI;
 @class STPAPIClient;
-@class STPPaymentConfiguration;
 @class STPSourceParams;
 @class STPRedirectContext;
 @class STPCardValidator;
