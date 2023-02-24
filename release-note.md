@@ -3,6 +3,16 @@
 ElepaySDK use [semantic versioning](http://semver.org/).  
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 4.0.1
+
+> New Features
+>
+> 1. Add two public property for getting SDK version and build number at runtime.  
+>
+> Bug Fix
+>
+> 1. FIXED: Wrong HTTP Header Field  
+
 ## 4.0.0
 
 > New Features

@@ -19,3 +19,6 @@ FOUNDATION_EXPORT const unsigned char ElepayVersionString[];
 #import <ElepaySDK/ElepayChinesePaymentsBridge.h>
 #import <ElepaySDK/ElepayStripeBridge.h>
 #import <ElepaySDK/ElepayRPayBridge.h>
+
+#define FRAMEWORK_VERSION CURRENT_FRAMEWORK_VERSION
+#define FRAMEWORK_BUILD CURRENT_FRAMEWORK_BUILD

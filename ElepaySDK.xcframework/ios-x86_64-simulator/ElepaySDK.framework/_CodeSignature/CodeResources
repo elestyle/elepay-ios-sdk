@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		87OcMoBGGm+27jAr6mdUi6a/spY=
+		bKVgZKImVle2fA6x3x0BD7baMCM=
 		</data>
 		<key>Base.lproj/ElepayCardUIViewController.nib</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Headers/ElepaySDK-Swift.h</key>
 		<data>
-		nutYO2TeMDMcc3RCKoj9WjhbIOM=
+		B63VJfsMqiRKEeD+aggA2AzvUNM=
 		</data>
 		<key>Headers/ElepaySDK.h</key>
 		<data>
-		l6Qn6m6ZwmWXkdmoJQoU88stkC0=
+		sMKDMNtuOTAPsrx/Te5pBxiK36U=
 		</data>
 		<key>Headers/ElepayStripeBridge.h</key>
 		<data>
@@ -34,27 +34,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ym4Fl1gizJ0xQGZdT7PWdHUa60g=
+		86m4ODJ6RbyoIQLtw9XxTH6/zyY=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		w9AcZtq7ANSHR76aaOEOPV9v4cI=
+		ZG/v9cuzzUQr8aXZjbGjIaYYOGU=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		jjpJPEkbt3T6Kc6eRPFO1NmLMj8=
+		P3bW7r8A65r6F7uNLVAv9jjbfKk=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		uJJMDD5hE/n8HQ7VAUV4NYhNyxs=
+		f4Jt8/Y8FawpEXXLF7ykZCmP0Aw=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jjpJPEkbt3T6Kc6eRPFO1NmLMj8=
+		P3bW7r8A65r6F7uNLVAv9jjbfKk=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2iFKWr7TN7wetz0Q+xe8W6eY7qc=
+		JAuah/Cq4T5aaEIc4TM6YzJD2YI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,7 +103,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8fCInnJTcgnNAtVHuGZNomaH+w7oAX/mJ9EwcKzol4Q=
+			yYeQ1JJkQOB+Tv8ZibRma5Jeg7rKRp7ylNPn/48zIbo=
 			</data>
 		</dict>
 		<key>Base.lproj/ElepayCardUIViewController.nib</key>
@@ -131,14 +131,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			md0aIQmacGvdRkeC+aJgSMtHrBYpPSwF05CAPMPv3Fo=
+			JJh9egJLs7pcFGu8RCQA6uclxb0euNY+6Jr/28bQkFQ=
 			</data>
 		</dict>
 		<key>Headers/ElepaySDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Eq8d6zJTeTyfyw1MW3rRjNz8ZIs66OLCdR816eVVIyQ=
+			4sn9wQggqyNJOdxA/60XnlLqJwU+Ws4sGeNLFYg/eHU=
 			</data>
 		</dict>
 		<key>Headers/ElepayStripeBridge.h</key>
@@ -152,35 +152,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ou/oF4n/KOjExVI/00aMr/Zvje1G67ZuVObmJE/nnUA=
+			3CMm9PxG2tfwbpfB4E9XAH1ZyrUS0Mitc6YhAkBk5hI=
 			</data>
 		</dict>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cM62pZjUTL3mJXOrsXnnqfXBbrBee0lwkdDRT8uA3Tk=
+			gohiw2RuR1LddExWh3nSGfJ/ByB0egGWxp6aJ0J76V4=
 			</data>
 		</dict>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xgtHGRHtg541+nfKUqHs/cEcQ+jNzKd4kYUrXipEtRg=
+			QR96eFuZa9R7DmyDvHC2095/MyEw7YFPbAID/v04rOs=
 			</data>
 		</dict>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cM62pZjUTL3mJXOrsXnnqfXBbrBee0lwkdDRT8uA3Tk=
+			gohiw2RuR1LddExWh3nSGfJ/ByB0egGWxp6aJ0J76V4=
 			</data>
 		</dict>
 		<key>Modules/ElepaySDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TzcCB3kBarWOt8qqpvEf+jeIPEWuY0DJJvTAIyPvL5c=
+			KsGHc+Bgx+IYjCWZSHxjIc5LCqWEr3idfIkii/9+mGI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

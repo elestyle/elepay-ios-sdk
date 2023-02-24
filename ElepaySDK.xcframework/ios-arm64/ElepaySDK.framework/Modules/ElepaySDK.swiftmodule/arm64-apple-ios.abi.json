@@ -1827,6 +1827,108 @@
           },
           {
             "kind": "Var",
+            "name": "sdkVersion",
+            "printedName": "sdkVersion",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9ElepaySDK0A0C10sdkVersionSSvpZ",
+            "mangledName": "$s9ElepaySDK0A0C10sdkVersionSSvpZ",
+            "moduleName": "ElepaySDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ElepaySDK0A0C10sdkVersionSSvgZ",
+                "mangledName": "$s9ElepaySDK0A0C10sdkVersionSSvgZ",
+                "moduleName": "ElepaySDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "sdkBuild",
+            "printedName": "sdkBuild",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int32",
+                "printedName": "Swift.Int32",
+                "usr": "s:s5Int32V"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9ElepaySDK0A0C8sdkBuilds5Int32VvpZ",
+            "mangledName": "$s9ElepaySDK0A0C8sdkBuilds5Int32VvpZ",
+            "moduleName": "ElepaySDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int32",
+                    "printedName": "Swift.Int32",
+                    "usr": "s:s5Int32V"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9ElepaySDK0A0C8sdkBuilds5Int32VvgZ",
+                "mangledName": "$s9ElepaySDK0A0C8sdkBuilds5Int32VvgZ",
+                "moduleName": "ElepaySDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "paymentConfiguration",
             "printedName": "paymentConfiguration",
             "children": [
@@ -3025,6 +3127,16 @@
           "RawDocComment"
         ],
         "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "ElepaySDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -7270,44 +7382,100 @@
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1120,
+      "offset": 1227,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1587,
+      "offset": 1694,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1822,
+      "offset": 1929,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "StringLiteral",
-      "offset": 1975,
+      "offset": 2082,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "StringLiteral",
-      "offset": 2000,
+      "offset": 2107,
       "length": 8,
       "value": "\"elepay\""
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "Dictionary",
-      "offset": 24035,
+      "offset": 24142,
       "length": 3,
       "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 425,
+      "length": 4,
+      "value": "\"%d\""
+    },
+    {
+      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 494,
+      "length": 28,
+      "value": "\"CFBundleShortVersionString\""
+    },
+    {
+      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 538,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 585,
+      "length": 17,
+      "value": "\"CFBundleVersion\""
+    },
+    {
+      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 618,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 671,
+      "length": 21,
+      "value": "\"CFBundleDisplayName\""
+    },
+    {
+      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 708,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 778,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutViewController.swift",
@@ -8110,77 +8278,49 @@
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 284,
-      "length": 12,
-      "value": "\"2020-06-16\""
-    },
-    {
-      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
-      "kind": "StringLiteral",
-      "offset": 343,
-      "length": 28,
-      "value": "\"CFBundleShortVersionString\""
-    },
-    {
-      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
-      "kind": "StringLiteral",
-      "offset": 387,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
-      "kind": "StringLiteral",
-      "offset": 434,
-      "length": 17,
-      "value": "\"CFBundleVersion\""
-    },
-    {
-      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
-      "kind": "StringLiteral",
-      "offset": 467,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
-      "kind": "StringLiteral",
-      "offset": 503,
+      "offset": 204,
       "length": 5,
       "value": "\"ios\""
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 674,
+      "offset": 244,
+      "length": 12,
+      "value": "\"2020-06-16\""
+    },
+    {
+      "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
+      "kind": "StringLiteral",
+      "offset": 422,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 1974,
+      "offset": 1722,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
-      "offset": 2965,
+      "offset": 2713,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 12288,
+      "offset": 12036,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "BooleanLiteral",
-      "offset": 12627,
+      "offset": 12375,
       "length": 4,
       "value": "true"
     },
@@ -8229,7 +8369,7 @@
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayStripe.swift",
       "kind": "BooleanLiteral",
-      "offset": 11713,
+      "offset": 11611,
       "length": 4,
       "value": "true"
     },
