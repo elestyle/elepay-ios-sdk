@@ -1846,7 +1846,8 @@
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "isLet": true,
             "hasStorage": true,
@@ -1897,7 +1898,8 @@
               "HasInitialValue",
               "Final",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "isLet": true,
             "hasStorage": true,
@@ -7382,42 +7384,42 @@
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1227,
+      "offset": 1324,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1694,
+      "offset": 1791,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1929,
+      "offset": 2026,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "StringLiteral",
-      "offset": 2082,
+      "offset": 2179,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "StringLiteral",
-      "offset": 2107,
+      "offset": 2204,
       "length": 8,
       "value": "\"elepay\""
     },
     {
       "filePath": "\/Users\/xuzhe\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "Dictionary",
-      "offset": 24142,
+      "offset": 24239,
       "length": 3,
       "value": "[]"
     },

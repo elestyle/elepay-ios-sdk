@@ -1,51 +1,61 @@
 # ElepaySDK for iOS Release Note
 
-ElepaySDK use [semantic versioning](http://semver.org/).  
+ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
+
+## 4.0.2
+
+> New Features
+>
+> 1. Rebuild with Stripe SDK for iOS v22.8.4 (Since we still want to support iOS 12, we will not update to the Stripe SDK for iOS v23 until iOS 17 is released).
+>
+> Bug Fix
+>
+> 1. FIXED: Stripe Framework are no longer required if you are not using Credit Card payment method in your App (happend in 4.0.1).
 
 ## 4.0.1
 
 > New Features
 >
-> 1. Add two public property for getting SDK version and build number at runtime.  
+> 1. Add two public property for getting SDK version and build number at runtime.
 >
 > Bug Fix
 >
-> 1. FIXED: Wrong HTTP Header Field  
+> 1. FIXED: Wrong HTTP Header Field
 
 ## 4.0.0
 
 > New Features
 >
-> 1. The elepay iOS SDK requires Xcode 14 or later and is compatible with apps targeting iOS 12 or above.  
-> 2. Add Card Scan support (iOS 13 or above required).  
-> 3. Compiled using Xcode 14 (Swift 5.7)  
-> 4. Bitcode will no longer be supported from this version.  
-> 5. Removed Braintree support. We will add PayPal directly support in the future.  
+> 1. The elepay iOS SDK requires Xcode 14 or later and is compatible with apps targeting iOS 12 or above.
+> 2. Add Card Scan support (iOS 13 or above required).
+> 3. Compiled using Xcode 14 (Swift 5.7)
+> 4. Bitcode will no longer be supported from this version.
+> 5. Removed Braintree support. We will add PayPal directly support in the future.
 
-## 3.5.0  
+## 3.5.0
 
 > New Features
->  
-> 1. Add Alipay+ source support. (Sources can be charged directly, or attached to customers for later recharge)  
-  
-## 3.4.1  
+>
+> 1. Add Alipay+ source support. (Sources can be charged directly, or attached to customers for later recharge)
+
+## 3.4.1
 
 > Bug Fixes
 >
-> 1. Fixed: Apple Pay may not display the correct amount on some iOS versions.  
+> 1. Fixed: Apple Pay may not display the correct amount on some iOS versions.
 
-## 3.4.0  
+## 3.4.0
 
 > New Features
 >
-> 1. Add Credit Card (Rakuten Bank) support, also supports 3DS2.  
-> 2. Add GMO Payment Gateway Credit Card supoort.  
-> 3. Add Sony Payment Services Credit Card support.  
-> 4. **App Clips**: The `Elepay-StripeApplePay-Plugin` provides a lightweight plugin for offering Apple Pay in an App Clip.  
-> *You can now remove Stripe SDK when making App Clips to reduce the binary size.  
-> The `Elepay-StripeApplePay-Plugin` already has StripeApplePay SDK embedded, so you need to import only `ElepaySDK` and `Elepay-StripeApplePay-Plugin` when buiding your App Clip.  
-> For more details about this plugin, please reference the link here.*  
+> 1. Add Credit Card (Rakuten Bank) support, also supports 3DS2.
+> 2. Add GMO Payment Gateway Credit Card supoort.
+> 3. Add Sony Payment Services Credit Card support.
+> 4. **App Clips**: The `Elepay-StripeApplePay-Plugin` provides a lightweight plugin for offering Apple Pay in an App Clip.
+> *You can now remove Stripe SDK when making App Clips to reduce the binary size.
+> The `Elepay-StripeApplePay-Plugin` already has StripeApplePay SDK embedded, so you need to import only `ElepaySDK` and `Elepay-StripeApplePay-Plugin` when buiding your App Clip.
+> For more details about this plugin, please reference the link here.*
 >
 
 ## 3.3.0
