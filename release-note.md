@@ -3,6 +3,13 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 4.1.0
+
+> New Features
+>
+> 1. Rebuild with Xcode 14.3 (Swift 5.8)
+> 2. Add new Alipay+ payment method support (DANA, TrueMoney Wallet, Rabbit LINE Pay, BPI, BOOST, HelloMoney)
+
 ## 4.0.2
 
 > New Features
@@ -52,11 +59,10 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 > 1. Add Credit Card (Rakuten Bank) support, also supports 3DS2.
 > 2. Add GMO Payment Gateway Credit Card supoort.
 > 3. Add Sony Payment Services Credit Card support.
-> 4. **App Clips**: The `Elepay-StripeApplePay-Plugin` provides a lightweight plugin for offering Apple Pay in an App Clip.
-> *You can now remove Stripe SDK when making App Clips to reduce the binary size.
-> The `Elepay-StripeApplePay-Plugin` already has StripeApplePay SDK embedded, so you need to import only `ElepaySDK` and `Elepay-StripeApplePay-Plugin` when buiding your App Clip.
-> For more details about this plugin, please reference the link here.*
->
+> 4. **App Clips**: The `Elepay-StripeApplePay-Plugin` provides a lightweight plugin for offering Apple Pay in an App Clip.  
+> *You can now remove Stripe SDK when making App Clips to reduce the binary size.  
+> The `Elepay-StripeApplePay-Plugin` already has StripeApplePay SDK embedded, so you need to import only `ElepaySDK` and `Elepay-StripeApplePay-Plugin` when buiding your App Clip.  
+> For more details about this plugin, please reference the link [here](https://github.com/elestyle/elepay-stripeapplepay-plugin).*
 
 ## 3.3.0
 
@@ -69,7 +75,7 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 
 > New Features
 >
-> 1. Add a new Web-Based Process for Alipay+ to handle some payment App may not redirect back to your App automatically.
+> 1. Add a new Web-Based Process for Alipay+ to handle some payment App may not redirect back to your App automatically.  
 > In this case, users need to go back to your App manually (Yes, we know the experiance is bad, we are working closely with Alipay+ to improve this).
 >
 
@@ -97,7 +103,7 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 
 > New Features
 >
-> 1. SPM (Swift Package Manager) supported.
+> 1. SPM (Swift Package Manager) supported.  
 > NOTE: This version will not be released to Cocoapods, use v3.1.0 instead.
 >
 
