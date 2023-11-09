@@ -1,7 +1,7 @@
 framework module ElepaySDK {
   umbrella header "ElepaySDK.h"
-
   export *
+
   module * { export * }
 }
 

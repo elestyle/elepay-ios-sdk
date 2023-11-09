@@ -3,6 +3,12 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 4.2.0
+
+> New Features
+>
+> 1. Add Rakuten Bank pre-authorization support.
+
 ## 4.1.0
 
 > New Features
