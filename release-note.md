@@ -3,6 +3,13 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 4.3.0
+
+> New Features
+>
+> 1. Add support for more payment methods without the need to update the SDK in the future.
+> 2. Integrate support for Naver Pay and Toss Pay.
+
 ## 4.2.0
 
 > New Features
