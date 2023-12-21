@@ -14810,135 +14810,135 @@
       "value": "7"
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 271,
+      "offset": 283,
       "length": 15,
       "value": "\"WebBrowserPay\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 612,
+      "offset": 624,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 677,
+      "offset": 689,
       "length": 21,
       "value": "\"elepaywebbrowserpay\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 733,
+      "offset": 745,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 798,
+      "offset": 810,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 975,
+      "offset": 987,
       "length": 8,
       "value": "\"status\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 1099,
+      "offset": 1111,
       "length": 10,
       "value": "\"chargeId\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 1133,
+      "offset": 1145,
       "length": 10,
       "value": "\"sourceId\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1175,
+      "offset": 1187,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 1211,
+      "offset": 1223,
       "length": 10,
       "value": "\"captured\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 1233,
+      "offset": 1245,
       "length": 8,
       "value": "\"active\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 1320,
+      "offset": 1332,
       "length": 11,
       "value": "\"cancelled\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 1732,
+      "offset": 1744,
       "length": 38,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 1751,
+      "offset": 1763,
       "length": 8,
       "value": "\" returned failure.\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1799,
+      "offset": 1811,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 2700,
+      "offset": 2712,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 3005,
+      "offset": 3017,
       "length": 7,
       "value": "\"<key>\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 3222,
+      "offset": 3234,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/WebBrowserPay.swift",
+      "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
-      "offset": 4363,
+      "offset": 4375,
       "length": 69,
       "value": "\"There is no supported privider handler for the 'Any' Redirect Type.\""
     },
@@ -15428,14 +15428,14 @@
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/ElepaySource.swift",
       "kind": "BooleanLiteral",
-      "offset": 8272,
+      "offset": 8278,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/ElepaySource.swift",
       "kind": "BooleanLiteral",
-      "offset": 8472,
+      "offset": 8478,
       "length": 5,
       "value": "false"
     },
@@ -16058,140 +16058,140 @@
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "Dictionary",
-      "offset": 24486,
+      "offset": 24492,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 24578,
+      "offset": 24590,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 24664,
+      "offset": 24676,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 24750,
+      "offset": 24762,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 24836,
+      "offset": 24848,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 24920,
+      "offset": 24932,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 25004,
+      "offset": 25016,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 25090,
+      "offset": 25102,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 25175,
+      "offset": 25187,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 25260,
+      "offset": 25272,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 25362,
+      "offset": 25374,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 25450,
+      "offset": 25462,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 25538,
+      "offset": 25550,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 25628,
+      "offset": 25640,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 25714,
+      "offset": 25726,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 25744,
+      "offset": 25756,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 27254,
+      "offset": 27266,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 27419,
+      "offset": 27431,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 27585,
+      "offset": 27597,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/xz\/Develop\/svn\/elestyle\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
-      "offset": 27615,
+      "offset": 27627,
       "length": 5,
       "value": "false"
     },
