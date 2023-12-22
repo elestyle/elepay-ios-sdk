@@ -34,11 +34,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TljzJUDWZZeLjACohkJld9yFysI=
+		KtlvgiuZhhFYYw+sIDv0Auw7YME=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		zvp2aidRwXnlkmNyy0+kZdh0lIQ=
+		Ja5k/2TRHTlAb0PB79kOb8LnaiA=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7W6Xex24LuEsZ2lCSE2FX+IE3bs=
+		LZfkLCBoInJPsAairE2PVCC2Leg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -152,7 +152,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z3A+CX8YNI1VdXgl24WIUcbn0fmMLFGZbvDf0ZMtrI4=
+			3iWpR99/EjjSjZbn2dcUMy8o2ze4CSI46PfJxIw0h/Y=
 			</data>
 		</dict>
 		<key>Modules/ElepaySDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -180,7 +180,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4Ir0/fawDK/Tj6tFgd/5WV4F6njCyXAiVkp5wwN87I8=
+			vfOK15t40WZ6RplCZHm5EfzZj8wHXtAd4bQKN3qAmmg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -3,6 +3,12 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 4.3.1
+
+> New Features
+>
+> 1. Do not retrieve the provider configuration when the SDK is initialized, but rather when the user attempts to make a payment for the first time.
+
 ## 4.3.0
 
 > New Features
