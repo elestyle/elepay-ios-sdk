@@ -3,6 +3,12 @@
 ElepaySDK use [semantic versioning](http://semver.org/).
 Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework format.
 
+## 4.4.0
+
+> Bug Fix
+>
+> 1. Add Privacy Manifests.
+
 ## 4.3.1
 
 > New Features
@@ -79,9 +85,9 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 > 2. Add GMO Payment Gateway Credit Card supoort.
 > 3. Add Sony Payment Services Credit Card support.
 > 4. **App Clips**: The `Elepay-StripeApplePay-Plugin` provides a lightweight plugin for offering Apple Pay in an App Clip.  
-> *You can now remove Stripe SDK when making App Clips to reduce the binary size.  
-> The `Elepay-StripeApplePay-Plugin` already has StripeApplePay SDK embedded, so you need to import only `ElepaySDK` and `Elepay-StripeApplePay-Plugin` when buiding your App Clip.  
-> For more details about this plugin, please reference the link [here](https://github.com/elestyle/elepay-stripeapplepay-plugin).*
+>    _You can now remove Stripe SDK when making App Clips to reduce the binary size.  
+>    The `Elepay-StripeApplePay-Plugin` already has StripeApplePay SDK embedded, so you need to import only `ElepaySDK` and `Elepay-StripeApplePay-Plugin` when buiding your App Clip.  
+>    For more details about this plugin, please reference the link [here](https://github.com/elestyle/elepay-stripeapplepay-plugin)._
 
 ## 3.3.0
 
@@ -95,8 +101,7 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 > New Features
 >
 > 1. Add a new Web-Based Process for Alipay+ to handle some payment App may not redirect back to your App automatically.  
-> In this case, users need to go back to your App manually (Yes, we know the experiance is bad, we are working closely with Alipay+ to improve this).
->
+>    In this case, users need to go back to your App manually (Yes, we know the experiance is bad, we are working closely with Alipay+ to improve this).
 
 ## 3.2.1
 
@@ -106,7 +111,6 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 > 2. Payment method icons' local cache supported.
 > 3. Add Alipay+ to EasyCheckout feature.
 > 4. Remove canOpenURL requirement from au PAY, JCoinPay, LINE Pay and PayPay
->
 
 ## 3.2.0
 
@@ -116,15 +120,13 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 > 2. Add UnionPay directly connect support.
 > 3. Add a workaround for some new version (21.9.0) of Stripe's Swift SDK, due to it's Objective-C support is frequently changing recently.
 > 4. Add Alipay+ support (Charge only, Source & EasyCheckout still on work)
->
 
 ## 3.1.1
 
 > New Features
 >
 > 1. SPM (Swift Package Manager) supported.  
-> NOTE: This version will not be released to Cocoapods, use v3.1.0 instead.
->
+>    NOTE: This version will not be released to Cocoapods, use v3.1.0 instead.
 
 ## 3.1.0
 
@@ -133,7 +135,6 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 > 1. Update Stripe framework for Xcode 12.5 & Xcode 13 beta support
 > 2. Add support RPay (Rakuten Pay)
 > 3. Minor improvements
->
 
 ## 3.0
 
@@ -141,21 +142,18 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 >
 > 1. Update Stripe framework support to v21.x
 > 2. Drop iOS 10 support
->
 
 ## 2.3.5
 
 > New Features
 >
 > 1. Add Source Support for PayPay, LINEPay, paidy and Amazon Pay (Sources can be charged directly, or attached to customers for later reuse).
->
 
 ## 2.3.4
 
 > New Features
 >
 > 1. Shrunk the SDK for universal descriptors when uncompressed to 2MB, allowing for easier App Clips integration.
->
 
 ## 2.3.3
 
@@ -163,21 +161,18 @@ Starting from v2.0.0, we start distributing ElepaySDK for iOS in XCFramework for
 >
 > 1. Add new error code for 3rd party payment App not installed situation
 > 2. Shrunk the SDK when compressed & thinned to 5MB, allowing for easier App Clips integration.
->
 
 ## 2.3.2
 
 > Bug Fix
 >
 > 1. Upadated error report timestamp format
->
 
 ## 2.3.1
 
 > Bug Fix
 >
 > 1. Improved Failure Report for better error analysis
->
 
 ## 2.3
 
@@ -243,7 +238,7 @@ The first version of ElepaySDK for iOS distributing in XCFramework bundle format
 > New Features
 >
 > 1. Add Dark Mode support
-> use `Elepay.userInterfaceStyle` to set up.
+>    use `Elepay.userInterfaceStyle` to set up.
 > 2. XCFramework support
 
 ## Credits
