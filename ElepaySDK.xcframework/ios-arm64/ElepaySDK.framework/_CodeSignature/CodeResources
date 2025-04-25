@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ms5pltPVz/VtXjs2itx4b3SI0Jg=
+		ZCdOAevUGZXk0MWQWqJO+29qR34=
 		</data>
 		<key>Base.lproj/ElepayCardUIViewController.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rnDwknrxnXIBL5YHhPTZ3QkEWtc=
+		pXQpxeXi2YHpngeTTXbdtAAJAIM=
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/ElepaySDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		KvkzPj/kAD7AzQduB9smrYbuBM8=
+		vSWAhhWXzfbmQRVdDIAh34PnpNI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -107,7 +107,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fmn7HNa8Hd/4iu0B2uhwxXJPmccrzCSfXWQAdxIi4ME=
+			hgtMcAN7J9Qnm/Qp0WVKn9C0qYzIafzGiyeGdmzRa9I=
 			</data>
 		</dict>
 		<key>Base.lproj/ElepayCardUIViewController.nib</key>
@@ -184,7 +184,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			acsIiJj3SBWBUIAdE/2ew9H2UCU+HbJNpB+IfhWqp/c=
+			GlDGkfi4czvjdMm+uRYFgRgZAo12FsPpekhiosaKJpE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
