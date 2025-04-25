@@ -4981,3262 +4981,3262 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripeCharge.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripeCharge.swift",
       "kind": "StringLiteral",
       "offset": 712,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripeCharge.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripeCharge.swift",
       "kind": "Dictionary",
       "offset": 869,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripeCharge.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripeCharge.swift",
       "kind": "StringLiteral",
       "offset": 919,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripeCharge.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripeCharge.swift",
       "kind": "BooleanLiteral",
       "offset": 1074,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripeCharge.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripeCharge.swift",
       "kind": "BooleanLiteral",
       "offset": 6834,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayProvider.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayProvider.swift",
       "kind": "BooleanLiteral",
       "offset": 673,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayProvider.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayProvider.swift",
       "kind": "StringLiteral",
       "offset": 774,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayProvider.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayProvider.swift",
       "kind": "Dictionary",
       "offset": 2464,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayProvider.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayProvider.swift",
       "kind": "Dictionary",
       "offset": 8852,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardParams.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardParams.swift",
       "kind": "IntegerLiteral",
       "offset": 339,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardParams.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardParams.swift",
       "kind": "IntegerLiteral",
       "offset": 425,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 561,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 794,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 949,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "StringLiteral",
       "offset": 1067,
       "length": 38,
       "value": "\"elepaySDK.CameraScanner.SessionQueue\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1248,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1288,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1485,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1491,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1501,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1512,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "Dictionary",
       "offset": 1734,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "Dictionary",
       "offset": 1790,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "StringLiteral",
       "offset": 1931,
       "length": 30,
       "value": "\"^(\\d{2}\\D{1,3})(\\d{1,4})?\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardNumberScannerViewController.swift",
       "kind": "Array",
       "offset": 1984,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAtone.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAtone.swift",
       "kind": "StringLiteral",
       "offset": 260,
       "length": 13,
       "value": "\"ElepayAtone\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ImageLoader.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ImageLoader.swift",
       "kind": "StringLiteral",
       "offset": 190,
       "length": 35,
       "value": "\"elepaySDK.IamgeLoader.SerialQueue\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ImageLoader.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ImageLoader.swift",
       "kind": "StringLiteral",
       "offset": 260,
       "length": 17,
       "value": "\"common_cache_id\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ImageLoader.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ImageLoader.swift",
       "kind": "IntegerLiteral",
       "offset": 317,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ImageLoader.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ImageLoader.swift",
       "kind": "Dictionary",
       "offset": 362,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ImageLoader.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ImageLoader.swift",
       "kind": "Array",
       "offset": 3260,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ImageLoader.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ImageLoader.swift",
       "kind": "Dictionary",
       "offset": 3310,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/PaymentMethodListCell.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/PaymentMethodListCell.swift",
       "kind": "BooleanLiteral",
       "offset": 360,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/PaymentMethodListCell.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/PaymentMethodListCell.swift",
       "kind": "BooleanLiteral",
       "offset": 529,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/PaymentMethodListCell.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/PaymentMethodListCell.swift",
       "kind": "StringLiteral",
       "offset": 665,
       "length": 21,
       "value": "\"pm_logo_placeholder\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutProductListViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutProductListViewController.swift",
       "kind": "StringLiteral",
       "offset": 216,
       "length": 38,
       "value": "\"ElepaySDK.CheckoutProductList.CellId\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutProductListViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutProductListViewController.swift",
       "kind": "StringLiteral",
       "offset": 422,
       "length": 43,
       "value": "\"ElepaySDK.CheckoutProductList.CellImageId\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutProductListViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutProductListViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 485,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAmazonPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAmazonPay.swift",
       "kind": "StringLiteral",
       "offset": 272,
       "length": 17,
       "value": "\"ElepayAmazonPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 812,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
       "kind": "StringLiteral",
       "offset": 1059,
       "length": 26,
       "value": "\"NSCameraUsageDescription\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
       "kind": "StringLiteral",
       "offset": 1143,
       "length": 26,
       "value": "\"NSCameraUsageDescription\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1515,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
       "kind": "StringLiteral",
       "offset": 1561,
       "length": 11,
       "value": "\"unknown_f\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 9629,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 11113,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 11583,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/CardUI\/ElepayCardUIViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 12514,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 212,
       "length": 8,
       "value": "\"AllPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 239,
       "length": 8,
       "value": "\"Stripe\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 269,
       "length": 11,
       "value": "\"BrainTree\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 299,
       "length": 12,
       "value": "\"WeChat Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 330,
       "length": 8,
       "value": "\"Alipay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 355,
       "length": 10,
       "value": "\"LINE Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 383,
       "length": 7,
       "value": "\"Paidy\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 409,
       "length": 8,
       "value": "\"PayPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 439,
       "length": 12,
       "value": "\"Docomo Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 470,
       "length": 8,
       "value": "\"merpay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 496,
       "length": 7,
       "value": "\"Ksher\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 522,
       "length": 8,
       "value": "\"Amazon\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 548,
       "length": 7,
       "value": "\"atone\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 575,
       "length": 9,
       "value": "\"PAYGENT\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 602,
       "length": 8,
       "value": "\"au PAY\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 627,
       "length": 6,
       "value": "\"RPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 654,
       "length": 12,
       "value": "\"J-Coin Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 687,
       "length": 10,
       "value": "\"UnionPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 720,
       "length": 9,
       "value": "\"Alipay+\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 753,
       "length": 14,
       "value": "\"Rakuten Bank\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 783,
       "length": 5,
       "value": "\"GMO\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 805,
       "length": 14,
       "value": "\"Sony Payment\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 839,
       "length": 10,
       "value": "\"AEON Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 867,
       "length": 7,
       "value": "\"PXPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 959,
       "length": 24,
       "value": "\"elepay Web Browser Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ProviderManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ProviderManager.swift",
       "kind": "StringLiteral",
       "offset": 5334,
       "length": 8,
       "value": "\"scheme\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAlipayPlus.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAlipayPlus.swift",
       "kind": "StringLiteral",
       "offset": 270,
       "length": 18,
       "value": "\"ElepayAlipayPlus\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAlipayPlus.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAlipayPlus.swift",
       "kind": "StringLiteral",
       "offset": 425,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAlipayPlus.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAlipayPlus.swift",
       "kind": "BooleanLiteral",
       "offset": 509,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayUnionPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayUnionPay.swift",
       "kind": "StringLiteral",
       "offset": 269,
       "length": 16,
       "value": "\"ElepayUnionPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayUnionPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayUnionPay.swift",
       "kind": "StringLiteral",
       "offset": 420,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayUnionPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayUnionPay.swift",
       "kind": "StringLiteral",
       "offset": 446,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 604,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 810,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 971,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1022,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1069,
       "length": 12,
       "value": "0.1883276701"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1090,
       "length": 12,
       "value": "0.5457980633"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1110,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1120,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1275,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1330,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1527,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1693,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 1744,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutPaymentViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2027,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardValidator.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardValidator.swift",
       "kind": "IntegerLiteral",
       "offset": 717,
       "length": 7,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardValidator.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardValidator.swift",
       "kind": "IntegerLiteral",
       "offset": 880,
       "length": 10,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardValidator.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardValidator.swift",
       "kind": "StringLiteral",
       "offset": 1026,
       "length": 12,
       "value": "\"0123456789\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardValidator.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardValidator.swift",
       "kind": "StringLiteral",
       "offset": 1160,
       "length": 66,
       "value": "\"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789- \""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/AppHelper\/ElepayPaymentConfiguration.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/AppHelper\/ElepayPaymentConfiguration.swift",
       "kind": "BooleanLiteral",
       "offset": 893,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/AppHelper\/ElepayPaymentConfiguration.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/AppHelper\/ElepayPaymentConfiguration.swift",
       "kind": "Array",
       "offset": 967,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaidy.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaidy.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 13,
       "value": "\"ElepayPaidy\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAlipay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAlipay.swift",
       "kind": "StringLiteral",
       "offset": 247,
       "length": 14,
       "value": "\"ElepayAlipay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAlipay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAlipay.swift",
       "kind": "StringLiteral",
       "offset": 394,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/InfoReporter.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/InfoReporter.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 14,
       "value": "\"InfoReporter\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/InfoReporter.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/InfoReporter.swift",
       "kind": "StringLiteral",
       "offset": 306,
       "length": 22,
       "value": "\"elepay_report_cache_\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/InfoReporter.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/InfoReporter.swift",
       "kind": "StringLiteral",
       "offset": 368,
       "length": 10,
       "value": "\"--------\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/InfoReporter.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/InfoReporter.swift",
       "kind": "IntegerLiteral",
       "offset": 627,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/InfoReporter.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/InfoReporter.swift",
       "kind": "IntegerLiteral",
       "offset": 701,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/InfoReporter.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/InfoReporter.swift",
       "kind": "StringLiteral",
       "offset": 753,
       "length": 28,
       "value": "\"io.elepay.report.syncQueue\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/InfoReporter.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/InfoReporter.swift",
       "kind": "Dictionary",
       "offset": 828,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/InfoReporter.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/InfoReporter.swift",
       "kind": "BooleanLiteral",
       "offset": 858,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/InfoReporter.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/InfoReporter.swift",
       "kind": "StringLiteral",
       "offset": 962,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/InfoReporter.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/InfoReporter.swift",
       "kind": "StringLiteral",
       "offset": 1051,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
       "kind": "StringLiteral",
       "offset": 1148,
       "length": 20,
       "value": "\"OnPaymentSucceeded\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
       "kind": "StringLiteral",
       "offset": 1191,
       "length": 17,
       "value": "\"OnPaymentFailed\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
       "kind": "StringLiteral",
       "offset": 1234,
       "length": 20,
       "value": "\"OnPaymentCancelled\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
       "kind": "StringLiteral",
       "offset": 1278,
       "length": 11,
       "value": "\"OnCapture\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
       "kind": "StringLiteral",
       "offset": 1313,
       "length": 11,
       "value": "\"OnConfirm\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
       "kind": "StringLiteral",
       "offset": 1345,
       "length": 8,
       "value": "\"OnOpen\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
       "kind": "StringLiteral",
       "offset": 1391,
       "length": 25,
       "value": "\"OnProviderPaymentParams\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
       "kind": "StringLiteral",
       "offset": 1445,
       "length": 20,
       "value": "\"OnPayment3DSResult\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
       "kind": "StringLiteral",
       "offset": 1595,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/InnerWebView\/ElepayWebViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 1631,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 3808,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 3812,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 3816,
       "length": 2,
       "value": "19"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 3876,
       "length": 4,
       "value": "\"34\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 3882,
       "length": 4,
       "value": "\"34\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 3888,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 3924,
       "length": 4,
       "value": "\"37\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 3930,
       "length": 4,
       "value": "\"37\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 3936,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 3999,
       "length": 4,
       "value": "\"30\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4005,
       "length": 4,
       "value": "\"30\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4011,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4042,
       "length": 4,
       "value": "\"36\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4048,
       "length": 4,
       "value": "\"36\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4054,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4085,
       "length": 4,
       "value": "\"38\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4091,
       "length": 4,
       "value": "\"39\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4097,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4152,
       "length": 4,
       "value": "\"60\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4158,
       "length": 4,
       "value": "\"60\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4164,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4193,
       "length": 4,
       "value": "\"64\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4199,
       "length": 4,
       "value": "\"65\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4205,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4253,
       "length": 4,
       "value": "\"35\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4259,
       "length": 4,
       "value": "\"35\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4265,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4315,
       "length": 4,
       "value": "\"50\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4321,
       "length": 4,
       "value": "\"59\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4327,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4358,
       "length": 4,
       "value": "\"22\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4364,
       "length": 4,
       "value": "\"27\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4370,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4401,
       "length": 4,
       "value": "\"67\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4407,
       "length": 4,
       "value": "\"67\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4413,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4482,
       "length": 4,
       "value": "\"62\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4488,
       "length": 4,
       "value": "\"62\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4494,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4523,
       "length": 4,
       "value": "\"81\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4529,
       "length": 4,
       "value": "\"81\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4535,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4584,
       "length": 4,
       "value": "\"40\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4590,
       "length": 4,
       "value": "\"49\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4596,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4621,
       "length": 8,
       "value": "\"413600\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4631,
       "length": 8,
       "value": "\"413600\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4641,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4666,
       "length": 8,
       "value": "\"444509\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4676,
       "length": 8,
       "value": "\"444509\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4686,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4711,
       "length": 8,
       "value": "\"444509\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4721,
       "length": 8,
       "value": "\"444509\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4731,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4756,
       "length": 8,
       "value": "\"444550\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4766,
       "length": 8,
       "value": "\"444550\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4776,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4801,
       "length": 8,
       "value": "\"450603\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4811,
       "length": 8,
       "value": "\"450603\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4821,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4846,
       "length": 8,
       "value": "\"450617\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4856,
       "length": 8,
       "value": "\"450617\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4866,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4891,
       "length": 8,
       "value": "\"450628\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4901,
       "length": 8,
       "value": "\"450629\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4911,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4936,
       "length": 8,
       "value": "\"450636\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4946,
       "length": 8,
       "value": "\"450636\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 4956,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4981,
       "length": 8,
       "value": "\"450640\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 4991,
       "length": 8,
       "value": "\"450641\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5001,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5026,
       "length": 8,
       "value": "\"450662\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5036,
       "length": 8,
       "value": "\"450662\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5046,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5071,
       "length": 8,
       "value": "\"463100\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5081,
       "length": 8,
       "value": "\"463100\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5091,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5116,
       "length": 8,
       "value": "\"476142\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5126,
       "length": 8,
       "value": "\"476142\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5136,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5161,
       "length": 8,
       "value": "\"476143\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5171,
       "length": 8,
       "value": "\"476143\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5181,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5206,
       "length": 8,
       "value": "\"492901\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5216,
       "length": 8,
       "value": "\"492902\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5226,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5251,
       "length": 8,
       "value": "\"492920\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5261,
       "length": 8,
       "value": "\"492920\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5271,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5296,
       "length": 8,
       "value": "\"492923\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5306,
       "length": 8,
       "value": "\"492923\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5316,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5341,
       "length": 8,
       "value": "\"492928\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5351,
       "length": 8,
       "value": "\"492930\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5361,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5386,
       "length": 8,
       "value": "\"492937\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5396,
       "length": 8,
       "value": "\"492937\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5406,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5431,
       "length": 8,
       "value": "\"492939\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5441,
       "length": 8,
       "value": "\"492939\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5451,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5476,
       "length": 8,
       "value": "\"492960\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "StringLiteral",
       "offset": 5486,
       "length": 8,
       "value": "\"492960\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 5496,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "Array",
       "offset": 5560,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 6286,
       "length": 2,
       "value": "19"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayBINRange.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayBINRange.swift",
       "kind": "IntegerLiteral",
       "offset": 6340,
       "length": 1,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 125,
       "length": 3,
       "value": "\"_\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 153,
       "length": 5,
       "value": "\"000\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 188,
       "length": 5,
       "value": "\"000\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 247,
       "length": 7,
       "value": "\"90000\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 345,
       "length": 7,
       "value": "\"10010\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 380,
       "length": 7,
       "value": "\"10011\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 420,
       "length": 7,
       "value": "\"10100\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 457,
       "length": 7,
       "value": "\"10101\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 493,
       "length": 7,
       "value": "\"10103\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 526,
       "length": 7,
       "value": "\"10104\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 560,
       "length": 7,
       "value": "\"10105\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 595,
       "length": 7,
       "value": "\"10106\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 628,
       "length": 7,
       "value": "\"10107\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 663,
       "length": 7,
       "value": "\"10110\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 720,
       "length": 7,
       "value": "\"40091\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 750,
       "length": 7,
       "value": "\"40092\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 785,
       "length": 7,
       "value": "\"40093\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 818,
       "length": 7,
       "value": "\"40094\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 858,
       "length": 7,
       "value": "\"40095\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 896,
       "length": 7,
       "value": "\"40096\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 929,
       "length": 7,
       "value": "\"40104\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 961,
       "length": 7,
       "value": "\"40105\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 1044,
       "length": 7,
       "value": "\"50000\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 1074,
       "length": 7,
       "value": "\"50001\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 1110,
       "length": 7,
       "value": "\"50002\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 1141,
       "length": 7,
       "value": "\"50003\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 1173,
       "length": 7,
       "value": "\"50004\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 1205,
       "length": 7,
       "value": "\"50005\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ErrorCode.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 1273,
       "length": 7,
       "value": "\"80000\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/StringExtensions.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/StringExtensions.swift",
       "kind": "StringLiteral",
       "offset": 430,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayKsher.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayKsher.swift",
       "kind": "StringLiteral",
       "offset": 257,
       "length": 13,
       "value": "\"ElepayKsher\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayKsher.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayKsher.swift",
       "kind": "StringLiteral",
       "offset": 513,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayKsher.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayKsher.swift",
       "kind": "StringLiteral",
       "offset": 563,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayKsher.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayKsher.swift",
       "kind": "StringLiteral",
       "offset": 629,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPay2.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPay2.swift",
       "kind": "StringLiteral",
       "offset": 241,
       "length": 12,
       "value": "\"ElepayPay2\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPay2.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPay2.swift",
       "kind": "StringLiteral",
       "offset": 386,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/PaymentMethodListViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/PaymentMethodListViewController.swift",
       "kind": "StringLiteral",
       "offset": 423,
       "length": 36,
       "value": "\"ElepaySDK.PaymentMethodList.CellId\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/PaymentMethodListViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/PaymentMethodListViewController.swift",
       "kind": "Array",
       "offset": 518,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardType.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardType.swift",
       "kind": "IntegerLiteral",
       "offset": 219,
       "length": 10,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardType.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardType.swift",
       "kind": "IntegerLiteral",
       "offset": 253,
       "length": 15,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardType.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardType.swift",
       "kind": "IntegerLiteral",
       "offset": 298,
       "length": 10,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardType.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardType.swift",
       "kind": "IntegerLiteral",
       "offset": 333,
       "length": 3,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardType.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardType.swift",
       "kind": "IntegerLiteral",
       "offset": 353,
       "length": 8,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardType.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardType.swift",
       "kind": "IntegerLiteral",
       "offset": 383,
       "length": 8,
       "value": "6"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardType.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardType.swift",
       "kind": "IntegerLiteral",
       "offset": 413,
       "length": 7,
       "value": "7"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/ElepayCardType.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/ElepayCardType.swift",
       "kind": "BooleanLiteral",
       "offset": 1080,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayWebBrowserPay.swift",
       "kind": "StringLiteral",
       "offset": 283,
       "length": 15,
       "value": "\"WebBrowserPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepaySonyPayment.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepaySonyPayment.swift",
       "kind": "StringLiteral",
       "offset": 304,
       "length": 19,
       "value": "\"ElepaySonyPayment\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepaySonyPayment.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepaySonyPayment.swift",
       "kind": "StringLiteral",
       "offset": 454,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayMerpay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayMerpay.swift",
       "kind": "StringLiteral",
       "offset": 250,
       "length": 14,
       "value": "\"ElepayMerpay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayMerpay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayMerpay.swift",
       "kind": "StringLiteral",
       "offset": 397,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayDocomoPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayDocomoPay.swift",
       "kind": "StringLiteral",
       "offset": 256,
       "length": 17,
       "value": "\"ElepayDocomoPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayWeChat.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayWeChat.swift",
       "kind": "IntegerLiteral",
       "offset": 188,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayWeChat.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayWeChat.swift",
       "kind": "IntegerLiteral",
       "offset": 235,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayWeChat.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayWeChat.swift",
       "kind": "IntegerLiteral",
       "offset": 283,
       "length": 2,
       "value": "-2"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayWeChat.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayWeChat.swift",
       "kind": "StringLiteral",
       "offset": 435,
       "length": 14,
       "value": "\"ElepayWechat\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayWeChat.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayWeChat.swift",
       "kind": "StringLiteral",
       "offset": 650,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayWeChat.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayWeChat.swift",
       "kind": "StringLiteral",
       "offset": 700,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/RedirectType.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/RedirectType.swift",
       "kind": "StringLiteral",
       "offset": 218,
       "length": 8,
       "value": "\"in_app\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/RedirectType.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/RedirectType.swift",
       "kind": "StringLiteral",
       "offset": 246,
       "length": 9,
       "value": "\"browser\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/RedirectType.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/RedirectType.swift",
       "kind": "StringLiteral",
       "offset": 274,
       "length": 5,
       "value": "\"any\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutDataCenter.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutDataCenter.swift",
       "kind": "Dictionary",
       "offset": 260,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Elepay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
       "offset": 1324,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Elepay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
       "offset": 1791,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Elepay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "BooleanLiteral",
       "offset": 2026,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Elepay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "StringLiteral",
       "offset": 2179,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Elepay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "StringLiteral",
       "offset": 2204,
       "length": 8,
       "value": "\"elepay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Elepay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Elepay.swift",
       "kind": "Dictionary",
       "offset": 24366,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
       "kind": "StringLiteral",
       "offset": 425,
       "length": 4,
       "value": "\"%d\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
       "kind": "StringLiteral",
       "offset": 494,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
       "kind": "StringLiteral",
       "offset": 538,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
       "kind": "StringLiteral",
       "offset": 585,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
       "kind": "StringLiteral",
       "offset": 618,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
       "kind": "StringLiteral",
       "offset": 671,
       "length": 21,
       "value": "\"CFBundleDisplayName\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
       "kind": "StringLiteral",
       "offset": 708,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/RiskControl\/RCAppInfo.swift",
       "kind": "StringLiteral",
       "offset": 778,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 333,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 337,
       "length": 2,
       "value": "80"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 375,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutViewController.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 419,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 23,
       "value": "\"https:\/\/api.elepay.io\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 244,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 281,
       "length": 21,
       "value": "\"\/charges\/%@\/capture\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 336,
       "length": 20,
       "value": "\"\/charges\/%@\/verify\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 396,
       "length": 20,
       "value": "\"\/charges\/%@\/status\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 456,
       "length": 20,
       "value": "\"\/sources\/%@\/status\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 517,
       "length": 21,
       "value": "\"\/sources\/%@\/confirm\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 578,
       "length": 20,
       "value": "\"\/sources\/%@\/verify\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 627,
       "length": 14,
       "value": "\"\/sdk-reports\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 678,
       "length": 19,
       "value": "\"\/config\/providers\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 732,
       "length": 20,
       "value": "\"\/codes-checkout\/%@\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 783,
       "length": 26,
       "value": "\"\/config\/app-code-setting\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 841,
       "length": 18,
       "value": "\"\/codes\/%@\/charge\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 1273,
       "length": 18,
       "value": "\"al0wzbolZndqKcjy\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 1321,
       "length": 18,
       "value": "\"VfqCFNzeZQvaw04l\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/ElepayConstants.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/ElepayConstants.swift",
       "kind": "StringLiteral",
       "offset": 1379,
       "length": 35,
       "value": "\"https:\/\/app.elepay.io\/universal\/*\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "StringLiteral",
       "offset": 302,
       "length": 15,
       "value": "\"ElepayPaygent\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "Array",
       "offset": 476,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "Array",
       "offset": 535,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "StringLiteral",
       "offset": 566,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "StringLiteral",
       "offset": 611,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "Array",
       "offset": 651,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "StringLiteral",
       "offset": 1076,
       "length": 15,
       "value": "\"capability3ds\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "StringLiteral",
       "offset": 1135,
       "length": 15,
       "value": "\"capabilityemv\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "StringLiteral",
       "offset": 1194,
       "length": 18,
       "value": "\"capabilitycredit\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "StringLiteral",
       "offset": 1259,
       "length": 17,
       "value": "\"capabilitydebit\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "Array",
       "offset": 1332,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "Array",
       "offset": 816,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayPaygent.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayPaygent.swift",
       "kind": "Dictionary",
       "offset": 1536,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 168,
       "length": 12,
       "value": "\"WeChat Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 199,
       "length": 8,
       "value": "\"Alipay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 230,
       "length": 13,
       "value": "\"Credit Card\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 264,
       "length": 11,
       "value": "\"Apple Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 296,
       "length": 11,
       "value": "\"Union Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 326,
       "length": 8,
       "value": "\"PayPal\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 356,
       "length": 12,
       "value": "\"Google Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 388,
       "length": 10,
       "value": "\"LINE Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 416,
       "length": 7,
       "value": "\"Paidy\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 442,
       "length": 8,
       "value": "\"PayPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 472,
       "length": 12,
       "value": "\"Docomo Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 503,
       "length": 8,
       "value": "\"merpay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 533,
       "length": 12,
       "value": "\"Amazon Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 563,
       "length": 7,
       "value": "\"atone\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 588,
       "length": 8,
       "value": "\"au PAY\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 613,
       "length": 6,
       "value": "\"RPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 640,
       "length": 12,
       "value": "\"J-Coin Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 672,
       "length": 10,
       "value": "\"AEON Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 700,
       "length": 7,
       "value": "\"PXPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 735,
       "length": 20,
       "value": "\"Alipay+™ Partner\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 776,
       "length": 10,
       "value": "\"AlipayHK\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 805,
       "length": 8,
       "value": "\"JKOPAY\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 834,
       "length": 11,
       "value": "\"Kakao Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 861,
       "length": 21,
       "value": "\"Touch 'n Go eWallet\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 900,
       "length": 7,
       "value": "\"GCash\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 926,
       "length": 9,
       "value": "\"EZ-Link\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 952,
       "length": 6,
       "value": "\"DANA\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 980,
       "length": 11,
       "value": "\"TrueMoney\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 1017,
       "length": 17,
       "value": "\"Rabbit LINE Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 1050,
       "length": 5,
       "value": "\"BPI\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 1073,
       "length": 7,
       "value": "\"BOOST\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 1103,
       "length": 12,
       "value": "\"HelloMoney\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 1135,
       "length": 10,
       "value": "\"Toss Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 1166,
       "length": 11,
       "value": "\"Naver Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/PaymentMethod.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/PaymentMethod.swift",
       "kind": "StringLiteral",
       "offset": 1208,
       "length": 24,
       "value": "\"elepay Web Browser Pay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayLine.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayLine.swift",
       "kind": "StringLiteral",
       "offset": 241,
       "length": 12,
       "value": "\"ElepayLine\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayLine.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayLine.swift",
       "kind": "StringLiteral",
       "offset": 384,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/PaymentMethodBrandView.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/PaymentMethodBrandView.swift",
       "kind": "BooleanLiteral",
       "offset": 325,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/PaymentMethodBrandView.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/PaymentMethodBrandView.swift",
       "kind": "BooleanLiteral",
       "offset": 518,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/PaymentMethodBrandView.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/PaymentMethodBrandView.swift",
       "kind": "IntegerLiteral",
       "offset": 569,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/PaymentMethodBrandView.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/PaymentMethodBrandView.swift",
       "kind": "StringLiteral",
       "offset": 655,
       "length": 21,
       "value": "\"pm_logo_placeholder\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutStateIndicatingView.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutStateIndicatingView.swift",
       "kind": "BooleanLiteral",
       "offset": 291,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutStateIndicatingView.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutStateIndicatingView.swift",
       "kind": "BooleanLiteral",
       "offset": 449,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutStateIndicatingView.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutStateIndicatingView.swift",
       "kind": "IntegerLiteral",
       "offset": 500,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
       "kind": "BooleanLiteral",
       "offset": 347,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
       "kind": "BooleanLiteral",
       "offset": 546,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
       "kind": "IntegerLiteral",
       "offset": 597,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
       "kind": "BooleanLiteral",
       "offset": 756,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
       "kind": "IntegerLiteral",
       "offset": 811,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
       "kind": "BooleanLiteral",
       "offset": 966,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
       "kind": "IntegerLiteral",
       "offset": 1017,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/EasyCheckout\/CheckoutProductListCell.swift",
       "kind": "StringLiteral",
       "offset": 1089,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/Debug.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/Debug.swift",
       "kind": "StringLiteral",
       "offset": 227,
       "length": 14,
       "value": "\"HH:mm:ss.SSS\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/RiskControl\/RCManager.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/RiskControl\/RCManager.swift",
       "kind": "StringLiteral",
       "offset": 170,
       "length": 11,
       "value": "\"RCManager\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAllpay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAllpay.swift",
       "kind": "StringLiteral",
       "offset": 233,
       "length": 14,
       "value": "\"ElepayAllpay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAllpay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAllpay.swift",
       "kind": "StringLiteral",
       "offset": 380,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAllpay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAllpay.swift",
       "kind": "BooleanLiteral",
       "offset": 413,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayRakutenBank.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayRakutenBank.swift",
       "kind": "StringLiteral",
       "offset": 304,
       "length": 19,
       "value": "\"ElepayRakutenBank\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayRakutenBank.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayRakutenBank.swift",
       "kind": "StringLiteral",
       "offset": 461,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAuPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAuPay.swift",
       "kind": "StringLiteral",
       "offset": 252,
       "length": 13,
       "value": "\"ElepayAuPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayAuPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayAuPay.swift",
       "kind": "StringLiteral",
       "offset": 397,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayRPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayRPay.swift",
       "kind": "StringLiteral",
       "offset": 293,
       "length": 12,
       "value": "\"ElepayRPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayRPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayRPay.swift",
       "kind": "StringLiteral",
       "offset": 446,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayRPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayRPay.swift",
       "kind": "StringLiteral",
       "offset": 487,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayRPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayRPay.swift",
       "kind": "Dictionary",
       "offset": 778,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayJCoinPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayJCoinPay.swift",
       "kind": "StringLiteral",
       "offset": 277,
       "length": 16,
       "value": "\"ElepayJCoinPay\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayJCoinPay.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayJCoinPay.swift",
       "kind": "StringLiteral",
       "offset": 428,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 204,
       "length": 5,
       "value": "\"ios\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 244,
       "length": 12,
       "value": "\"2020-06-16\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 422,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "BooleanLiteral",
       "offset": 1722,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 2713,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 9407,
       "length": 62,
       "value": "\"Network issue with wrong reponse type: \""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 9468,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "IntegerLiteral",
       "offset": 9544,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "IntegerLiteral",
       "offset": 9551,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "Array",
       "offset": 9690,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 9756,
       "length": 6,
       "value": "\"code\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 9817,
       "length": 9,
       "value": "\"message\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 10084,
       "length": 79,
       "value": "\"Server error: \""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 10125,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 10159,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 10162,
       "length": 3,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "BooleanLiteral",
       "offset": 12036,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "BooleanLiteral",
       "offset": 12375,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 14638,
       "length": 62,
       "value": "\"Network issue with wrong reponse type: \""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 14699,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "IntegerLiteral",
       "offset": 14797,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "IntegerLiteral",
       "offset": 14804,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "Array",
       "offset": 14942,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 15027,
       "length": 6,
       "value": "\"code\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 15088,
       "length": 9,
       "value": "\"message\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 15247,
       "length": 79,
       "value": "\"Server error: \""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 15288,
       "length": 1,
       "value": "\" \""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 15322,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 15325,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Utils\/APIClient.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Utils\/APIClient.swift",
       "kind": "StringLiteral",
       "offset": 15833,
       "length": 25,
       "value": "\"Unexcpected json result\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripe.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripe.swift",
       "kind": "StringLiteral",
       "offset": 661,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripe.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripe.swift",
       "kind": "StringLiteral",
       "offset": 710,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripe.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripe.swift",
       "kind": "BooleanLiteral",
       "offset": 861,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripe.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripe.swift",
       "kind": "BooleanLiteral",
       "offset": 897,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripe.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripe.swift",
       "kind": "StringLiteral",
       "offset": 942,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripe.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripe.swift",
       "kind": "BooleanLiteral",
       "offset": 9813,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayStripe.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayStripe.swift",
       "kind": "BooleanLiteral",
       "offset": 11611,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayGMO.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayGMO.swift",
       "kind": "StringLiteral",
       "offset": 280,
       "length": 11,
       "value": "\"ElepayGMO\""
     },
     {
-      "filePath": "\/Users\/hailv\/Documents\/elestyle_code\/elepay\/elepay-ios-worktree\/feature-DEV-5725\/ElepaySDK\/Providers\/ElepayGMO.swift",
+      "filePath": "\/Users\/linguofeng\/NativeProjects\/elepay\/ElepaySDK\/Providers\/ElepayGMO.swift",
       "kind": "StringLiteral",
       "offset": 421,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 723,
       "length": 7,
       "value": "\"close\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 869,
       "length": 17,
       "value": "\"default_product\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1011,
       "length": 10,
       "value": "\"diners_b\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1146,
       "length": 10,
       "value": "\"diners_f\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1286,
       "length": 12,
       "value": "\"disclosure\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1430,
       "length": 13,
       "value": "\"exclamation\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1570,
       "length": 11,
       "value": "\"express_f\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1700,
       "length": 7,
       "value": "\"jcb_b\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1826,
       "length": 7,
       "value": "\"jcb_f\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 1958,
       "length": 10,
       "value": "\"master_b\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2093,
       "length": 10,
       "value": "\"master_f\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2249,
       "length": 21,
       "value": "\"pm_logo_placeholder\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2394,
       "length": 9,
       "value": "\"success\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2523,
       "length": 7,
       "value": "\"timer\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2653,
       "length": 9,
       "value": "\"union_b\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2785,
       "length": 9,
       "value": "\"union_f\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 2921,
       "length": 11,
       "value": "\"unknown_b\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3059,
       "length": 11,
       "value": "\"unknown_f\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3191,
       "length": 8,
       "value": "\"visa_b\""
     },
     {
-      "filePath": "\/Users\/hailv\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-hcqzpfhlvptjcraatgerirsdgjkh\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Deploy-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/linguofeng\/Library\/Developer\/Xcode\/DerivedData\/ElepaySDK-dyjcgrccklxgpfevjksxqdhhhobz\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ElepaySDK\/IntermediateBuildFilesPath\/ElepaySDK.build\/Release-iphonesimulator\/ElepaySDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 3320,
       "length": 8,
