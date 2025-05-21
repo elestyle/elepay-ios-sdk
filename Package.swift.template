@@ -1,0 +1,88 @@
+// swift-tools-version: 5.10
+// The swift-tools-version declares the minimum version of Swift required to build this package.
+
+import PackageDescription
+
+let version = "<version>"
+let r = "https://github.com/yangfan-elestyle/elepay-ios-sdk/releases/download/\(version)"
+
+let __ElepayCore = "<ElepayCore_sha256>"
+let __ElepaySDK = "<ElepaySDK_sha256>"
+let __ElepayStripePlugin = "<ElepayStripePlugin_sha256>"
+let __ElepayStripeApplePayPlugin = "<ElepayStripeApplePayPlugin_sha256>"
+let __ElepayRPayPlugin = "<ElepayRPayPlugin_sha256>"
+let __ElepayChinesePaymentsPlugin = "<ElepayChinesePaymentsPlugin_sha256>"
+
+let __Stripe = "<Stripe_sha256>"
+let __StripeCore = "<StripeCore_sha256>"
+let __StripeApplePay = "<StripeApplePay_sha256>"
+let __StripePayments = "<StripePayments_sha256>"
+let __StripePaymentsUI = "<StripePaymentsUI_sha256>"  
+let __StripePaymentSheet = "<StripePaymentSheet_sha256>"
+let __StripeIdentity = "<StripeIdentity_sha256>"
+let __StripeCardScan = "<StripeCardScan_sha256>"
+let __StripeFinancialConnections = "<StripeFinancialConnections_sha256>"
+let __StripeConnect = "<StripeConnect_sha256>"
+let __Stripe3DS2 = "<Stripe3DS2_sha256>"
+let __StripeUICore = "<StripeUICore_sha256>"
+let __StripeCameraCore = "<StripeCameraCore_sha256>"  
+
+let package = Package(
+  name: "ElepayiOSSDK",
+  products: [
+    .library(name: "ElepaySDK", targets: ["_ElepaySDK"]),
+    .library(name: "ElepayRPayPlugin", targets: ["_ElepayRPayPlugin"]),
+    .library(name: "ElepayChinesePaymentsPlugin", targets: ["_ElepayChinesePaymentsPlugin"]),
+    .library(name: "ElepayStripePlugin", targets: ["_ElepayStripePlugin"]),
+    .library(name: "ElepayStripeApplePayPlugin", targets: ["_ElepayStripeApplePayPlugin"]),
+  ],
+  targets: [
+    .target(name: "_ElepaySDK", dependencies: ["ElepayCore", "ElepaySDK"]),
+    .target(name: "_ElepayChinesePaymentsPlugin", dependencies: ["ElepayCore", "ElepayChinesePaymentsPlugin"]),
+    .target(name: "_ElepayRPayPlugin", dependencies: ["ElepayCore", "ElepayRPayPlugin"]),
+    .target(name: "_ElepayStripePlugin", dependencies: ["ElepayCore", "_Stripe", "ElepayStripePlugin"]),
+    .target(name: "_ElepayStripeApplePayPlugin", dependencies: ["ElepayCore", "_StripeApplePay", "ElepayStripeApplePayPlugin"]),
+
+    .binaryTarget(name: "ElepayCore", url: "\(r)/ElepayCore.xcframework.zip", checksum: __ElepayCore),
+    .binaryTarget(name: "ElepaySDK", url: "\(r)/ElepaySDK.xcframework.zip", checksum: __ElepaySDK),
+    .binaryTarget(name: "ElepayStripePlugin", url: "\(r)/ElepayStripePlugin.xcframework.zip", checksum: __ElepayStripePlugin),
+    .binaryTarget(name: "ElepayStripeApplePayPlugin", url: "\(r)/ElepayStripeApplePayPlugin.xcframework.zip", checksum: __ElepayStripeApplePayPlugin),
+    .binaryTarget(name: "ElepayRPayPlugin", url: "\(r)/ElepayRPayPlugin.xcframework.zip", checksum: __ElepayRPayPlugin),
+    .binaryTarget(name: "ElepayChinesePaymentsPlugin", url: "\(r)/ElepayChinesePaymentsPlugin.xcframework.zip", checksum: __ElepayChinesePaymentsPlugin),
+
+    // Stripe targets
+    .target(
+      name: "_Stripe",
+      dependencies: [
+        "Stripe",
+        "Stripe3DS2",
+        "StripeCore",
+        "StripeApplePay",
+        "StripeUICore",
+        "StripePayments",
+        "StripePaymentsUI",
+      ]
+    ),
+    .target(
+      name: "_StripeApplePay",
+      dependencies: [
+        "StripeCore",
+        "StripeApplePay",
+      ]
+    ),
+
+    .binaryTarget(name: "Stripe", url: "\(r)/Stripe.xcframework.zip", checksum: __Stripe),
+    .binaryTarget(name: "StripeCore", url: "\(r)/StripeCore.xcframework.zip", checksum: __StripeCore),
+    .binaryTarget(name: "StripeApplePay", url: "\(r)/StripeApplePay.xcframework.zip", checksum: __StripeApplePay),
+    .binaryTarget(name: "StripePayments", url: "\(r)/StripePayments.xcframework.zip", checksum: __StripePayments),
+    .binaryTarget(name: "StripePaymentsUI", url: "\(r)/StripePaymentsUI.xcframework.zip", checksum: __StripePaymentsUI),
+    .binaryTarget(name: "StripePaymentSheet", url: "\(r)/StripePaymentSheet.xcframework.zip", checksum: __StripePaymentSheet),
+    .binaryTarget(name: "StripeIdentity", url: "\(r)/StripeIdentity.xcframework.zip", checksum: __StripeIdentity),
+    .binaryTarget(name: "StripeCardScan", url: "\(r)/StripeCardScan.xcframework.zip", checksum: __StripeCardScan),
+    .binaryTarget(name: "StripeFinancialConnections", url: "\(r)/StripeFinancialConnections.xcframework.zip", checksum: __StripeFinancialConnections),
+    .binaryTarget(name: "StripeConnect", url: "\(r)/StripeConnect.xcframework.zip", checksum: __StripeConnect),
+    .binaryTarget(name: "Stripe3DS2", url: "\(r)/Stripe3DS2.xcframework.zip", checksum: __Stripe3DS2),
+    .binaryTarget(name: "StripeUICore", url: "\(r)/StripeUICore.xcframework.zip", checksum: __StripeUICore),
+    .binaryTarget(name: "StripeCameraCore", url: "\(r)/StripeCameraCore.xcframework.zip", checksum: __StripeCameraCore),
+  ]
+)
