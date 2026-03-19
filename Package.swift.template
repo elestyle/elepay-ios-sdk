@@ -4,7 +4,7 @@
 import PackageDescription
 
 let version = "<version>"
-let r = "https://github.com/yangfan-elestyle/elepay-ios-sdk/releases/download/\(version)"
+let r = "https://github.com/elestyle/elepay-ios-sdk/releases/download/\(version)"
 
 let __ElepayCore = "<ElepayCore_sha256>"
 let __ElepaySDK = "<ElepaySDK_sha256>"
