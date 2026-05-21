@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.elepay.io'
   s.license          = { :type => "Copyright", :text => "Copyright ELESTYLE, Inc. All Rights Reserved." }
   s.author           = { "ELESTYLE, Inc." => "info@elestyle.jp" }
-  s.source           = { :http => "https://github.com/elestyle/elepay-ios-sdk/releases/download/5.0.5/ElepayCheckoutPlugin.xcframework.zip", :sha256 => "78a84dc3b00a5e78e452f20d0903f7792120059eaab93f097872094c6b2fea1e" }
+  s.source           = { :http => "https://github.com/elestyle/elepay-ios-sdk/releases/download/5.0.5/ElepayCheckoutPlugin.xcframework.zip", :sha256 => "10a5423307101a146be929d8ee6c4b06c25a6d487347d9dd24eb68f1baf1cb1c" }
 
   
   s.platform         = :ios, "13.0"

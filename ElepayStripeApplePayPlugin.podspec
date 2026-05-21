@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.elepay.io'
   s.license          = { :type => "Copyright", :text => "Copyright ELESTYLE, Inc. All Rights Reserved." }
   s.author           = { "ELESTYLE, Inc." => "info@elestyle.jp" }
-  s.source           = { :http => "https://github.com/elestyle/elepay-ios-sdk/releases/download/5.0.5/ElepayStripeApplePayPlugin-pods.xcframework.zip", :sha256 => "844e3bb4f899e314e10ef13f7a3e2770e218a08262c3e3a576db0e332e4bd8a6" }
+  s.source           = { :http => "https://github.com/elestyle/elepay-ios-sdk/releases/download/5.0.5/ElepayStripeApplePayPlugin-pods.xcframework.zip", :sha256 => "accb1d6172533a01ffc818cf511db7fe2e358fc9431a61f12cc8c6d2410eaaf1" }
 
   s.platform         = :ios, "13.0"
   s.swift_versions   = ['5.10']
